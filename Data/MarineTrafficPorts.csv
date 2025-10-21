@@ -1,0 +1,555 @@
+Row,Port Num,Port Name,lat,lon,MarineTrafficPortType,MarineTrafficPortType_num,ConsolidatedPortType,ConsolidatedPortType_num
+4,1,BEAUMONT,30.07458,-94.06225,Medium-sized Port,7,Commercial,2
+7,2,BERWICK,29.69418,-91.21915,Medium-sized Port,7,Commercial,2
+10,3,BOLIVAR,29.40376,-94.74757,Medium-sized Port,7,Commercial,2
+13,4,BOLLINGER SHIPYARD,29.6116,-90.49003,Small-sized Port,10,Commercial,2
+16,5,BROWNSVILLE,25.9568,-97.37905,Medium-sized Port,7,Commercial,2
+19,6,BRUSLY,30.38318,-91.23404,Large-sized Port,3,Commercial,2
+22,7,BURNSIDE,30.13333,-90.91666,Medium-sized Port,7,Commercial,2
+25,8,CAMERON,29.77081,-93.34396,Large-sized Port,3,Commercial,2
+28,9,CELANESE BAY CITY,28.85994,-96.02847,Medium-sized Port,7,Commercial,2
+31,10,CODEN,30.38178,-88.23849,Medium-sized Port,7,Commercial,2
+34,11,CONVENT,30.01508,-90.82848,Large-sized Port,3,Commercial,2
+37,12,CORPUS CHRISTI,27.82754,-97.46793,Large-sized Port,3,Commercial,2
+40,13,COVE,27.99246,-97.07645,Medium-sized Port,7,Commercial,2
+43,14,CRIST POWER PLANT,30.56643,-87.2253,Medium-sized Port,7,Commercial,2
+46,15,CROW'S NEST,27.11179,-82.46307,Small-sized Port,10,Recreational,3
+49,16,CRYSTAL RIVER,28.95784,-82.70508,Medium-sized Port,7,Commercial,2
+52,17,CUT OFF,29.54162,-90.33711,Medium-sized Port,7,Commercial,2
+55,18,DARROW,30.1161,-90.98453,Medium-sized Port,7,Commercial,2
+58,19,DAUPHIN ISLAND,30.25145,-88.07899,Medium-sized Port,7,Commercial,2
+61,20,DAVANT,29.61585,-89.89185,Medium-sized Port,7,Commercial,2
+64,21,DEER RIVER,30.53251,-88.11485,Medium-sized Port,7,Commercial,2
+67,22,DIBERVILLE,30.42044,-88.89097,Medium-sized Port,7,Commercial,2
+70,23,EASTERN SHB ALLATON,30.03633,-85.47697,Small-sized Port,10,Commercial,2
+73,24,EMPIRE,29.38259,-89.57919,Medium-sized Port,7,Commercial,2
+76,25,FAIRHOPE,30.52508,-87.91402,Small-sized Port,10,Recreational,3
+79,26,FOURCHON,29.12,-90.20738,Large-sized Port,3,Commercial,2
+82,27,FREEPORT,28.9417,-95.3027,Medium-sized Port,7,Commercial,2
+85,28,FREEPORT,30.48777,-86.13715,Medium-sized Port,7,Commercial,2
+88,29,GALLIANO,29.44101,-90.30048,Medium-sized Port,7,Commercial,2
+91,30,GALVESTON,29.31004,-94.79931,Large-sized Port,3,Commercial,2
+94,31,GARYVILLE,30.04782,-90.60043,Medium-sized Port,7,Commercial,2
+97,32,GEISMAR,30.20129,-91.02335,Medium-sized Port,7,Commercial,2
+100,33,GOLDEN MEADOW,29.37925,-90.26201,Medium-sized Port,7,Commercial,2
+103,34,GOOD HOPE,29.98333,-90.4,Medium-sized Port,7,Commercial,2
+106,35,GRAMERCY,30.0528,-90.66782,Medium-sized Port,7,Commercial,2
+109,36,GRAND ISLE,29.25626,-89.96925,Medium-sized Port,7,Commercial,2
+112,37,GULF BREEZE,30.34874,-87.17239,Small-sized Port,10,Recreational,3
+115,38,GULFPORT,30.36266,-89.09054,Medium-sized Port,7,Commercial,2
+118,39,HACKBERRY,29.98333,-93.33334,Medium-sized Port,7,Commercial,2
+121,40,HARBOR ISLAND,27.84483,-97.0768,Medium-sized Port,7,Commercial,2
+124,41,HOUMA,29.57439,-90.68424,Large-sized Port,3,Commercial,2
+127,42,HOUSTON,29.72779,-95.27004,Large-sized Port,3,Commercial,2
+130,43,IMT MYRTLE GROVE,29.62663,-89.91911,Medium-sized Port,7,Commercial,2
+133,44,INGLESIDE,27.851,-97.21049,Medium-sized Port,7,Commercial,2
+136,45,INTRACOASTAL CITY,29.78516,-92.15924,Medium-sized Port,7,Commercial,2
+139,46,KEY WEST,24.567,-81.76,Medium-sized Port,7,Commercial,2
+142,47,LAKE CHARLES,30.18094,-93.29675,Medium-sized Port,7,Commercial,2
+145,48,LEEVAC SHIPYARDS,30.18804,-92.59507,Medium-sized Port,7,Commercial,2
+148,49,LEEVILLE,29.23687,-90.21255,Medium-sized Port,7,Commercial,2
+151,50,LOOP,28.86932,-89.97253,Medium-sized Port,7,Commercial,2
+154,51,LOREAUVILLE,30.05647,-91.73893,Medium-sized Port,7,Commercial,2
+157,52,LUTCHER,30.03572,-90.6951,Medium-sized Port,7,Commercial,2
+160,53,MOBILE,30.702,-88.0375,Medium-sized Port,7,Commercial,2
+163,54,MORGAN CITY,29.69537,-91.21059,Medium-sized Port,7,Commercial,2
+166,55,MOSS POINT,30.42129,-88.52371,Medium-sized Port,7,Commercial,2
+169,56,NAVARRE,30.4003,-86.86028,Medium-sized Port,7,Commercial,2
+172,57,NEW IBERIA,29.9385,-91.84098,Medium-sized Port,7,Commercial,2
+175,58,NEW ORLEANS,29.95669,-90.14589,Large-sized Port,3,Commercial,2
+178,59,NORTH AMERICAN SH,29.58615,-90.37576,Medium-sized Port,7,Commercial,2
+181,60,OCEAN MARINE,29.66229,-91.02285,Medium-sized Port,7,Commercial,2
+184,61,ORANGE,30.0642,-93.7478,Medium-sized Port,7,Commercial,2
+187,62,PALACIOS,28.69845,-96.22617,Medium-sized Port,7,Commercial,2
+190,63,PANAMA CITY,30.17878,-85.72932,Medium-sized Port,7,Commercial,2
+193,64,PASCAGOULA,30.35421,-88.54414,Medium-sized Port,7,Commercial,2
+196,65,PATTERSON,29.69175,-91.30098,Medium-sized Port,7,Commercial,2
+199,66,PAULINA,30.01676,-90.73265,Medium-sized Port,7,Commercial,2
+202,67,PELICANS PERCH,30.40133,-87.24958,Small-sized Port,10,Recreational,3
+205,68,PENSACOLA,30.40513,-87.21726,Medium-sized Port,7,Commercial,2
+208,69,PILOTTOWN,29.18054,-89.25772,Medium-sized Port,7,Commercial,2
+211,70,PLAQUEMINE,30.28416,-91.2231,Medium-sized Port,7,Commercial,2
+214,71,POINT COMFORT,28.652,-96.5605,Medium-sized Port,7,Commercial,2
+217,72,PORT ALLEN,30.45554,-91.20111,Large-sized Port,3,Commercial,2
+220,73,PORT ARANSAS,27.83963,-97.06149,Medium-sized Port,7,Commercial,2
+223,74,PORT ARTHUR,29.8778,-93.93169,Large-sized Port,3,Commercial,2
+226,75,PORT LAVACA,28.6175,-96.6195,Medium-sized Port,7,Commercial,2
+229,76,PORT MANATEE,27.63379,-82.56017,Medium-sized Port,7,Commercial,2
+232,77,PORT NECHES,30.00296,-93.94736,Large-sized Port,3,Commercial,2
+235,78,PORT O'CONNOR,28.4295,-96.4485,Medium-sized Port,7,Commercial,2
+238,79,PORTLAND TX,27.87585,-97.33246,Medium-sized Port,7,Commercial,2
+241,80,RESERVE,30.05231,-90.55598,Medium-sized Port,7,Commercial,2
+244,81,ROCKPORT TERMINALS,27.93679,-97.1153,Medium-sized Port,7,Commercial,2
+247,82,SABINE PASS,29.73561,-93.89362,Medium-sized Port,7,Commercial,2
+250,83,SANIBEL BOAT CLUB,26.45959,-81.952,Medium-sized Port,7,Commercial,2
+253,84,SOUTHWEST PASS,29.0318,-89.33842,Large-sized Port,3,Commercial,2
+256,85,ST JAMES,30.02003,-90.83954,Medium-sized Port,7,Commercial,2
+259,86,ST PETERSBURG,27.76642,-82.62732,Medium-sized Port,7,Commercial,2
+262,87,SUNSHINE,30.28969,-91.22141,Medium-sized Port,7,Commercial,2
+265,88,TAFT,29.99258,-90.44374,Medium-sized Port,7,Commercial,2
+268,89,TAMPA,27.90189,-82.49585,Large-sized Port,3,Commercial,2
+271,90,TEXAS CITY,29.37851,-94.89201,Large-sized Port,3,Commercial,2
+274,91,THOMASEA SHIPYARD,29.65006,-90.53871,Small-sized Port,10,Commercial,2
+277,92,TIERRA VERDE,27.69296,-82.71983,Medium-sized Port,7,Commercial,2
+280,93,VENICE,29.25899,-89.3602,Medium-sized Port,7,Commercial,2
+283,94,VERMILION,29.89401,-92.11826,Medium-sized Port,7,Commercial,2
+286,95,VICTORIA,28.66268,-96.96223,Medium-sized Port,7,Commercial,2
+289,96,WELCOME,30.06062,-90.86153,Large-sized Port,3,Commercial,2
+292,97,BIRD KEY,27.3203,-82.5592,Medium-sized Marina/Local Harbour,5,Recreational,3
+295,98,BLACKFIN RESORT,24.71763,-81.08823,Small-sized Marina/Local Harbour,9,Recreational,3
+298,99,BLIND PASS,27.75753,-82.7608,Medium-sized Marina/Local Harbour,5,Recreational,3
+301,100,BLUE PELICAN,28.49913,-82.65054,Small-sized Marina/Local Harbour,9,Recreational,3
+304,101,BLUE WATERS,25.01876,-80.50648,Small-sized Marina/Local Harbour,9,Recreational,3
+307,102,BLUEWATER BAY,30.4961,-86.4469,Small-sized Marina/Local Harbour,9,Recreational,3
+310,103,BOCA GRANDE,26.74792,-82.25578,Small-sized Marina/Local Harbour,9,Recreational,3
+313,104,BOCILLA ISLAND,26.7048,-82.1586,Small-sized Marina/Local Harbour,9,Recreational,3
+316,105,BONEFISH,24.72448,-81.01192,Small-sized Marina/Local Harbour,9,Recreational,3
+319,106,BONITA BAY,26.3383,-81.8272,Small-sized Marina/Local Harbour,9,Recreational,3
+322,107,BRADENTON BEACH,27.466,-82.69583,Small-sized Marina/Local Harbour,9,Recreational,3
+325,108,BRADENTON YACHT CLUB,27.52477,-82.61153,Medium-sized Marina/Local Harbour,5,Recreational,3
+328,109,BREAKAWAY,29.75743,-85.02017,Small-sized Marina/Local Harbour,9,Recreational,3
+331,110,BREATHWIT SHIPYARD,29.46673,-94.96646,Medium-sized Marina/Local Harbour,5,Recreational,3
+334,111,BREEZY PALMS RESORT,24.90025,-80.65366,Small-sized Marina/Local Harbour,9,Recreational,3
+337,112,BRIDGE HARBOR MARINA,28.96247,-95.29198,Medium-sized Marina/Local Harbour,5,Recreational,3
+340,113,BROADWATER,30.38941,-88.96259,Small-sized Marina/Local Harbour,9,Recreational,3
+343,114,BROOKSIDE,26.1392,-81.7803,Small-sized Marina/Local Harbour,9,Recreational,3
+346,115,B'S CAMPGROUND,29.02324,-82.72157,Small-sized Marina/Local Harbour,9,Recreational,3
+349,116,BUCCANEER,30.5811,-88.0711,Medium-sized Marina/Local Harbour,5,Recreational,3
+352,117,BUD N MARYS,24.89763,-80.65827,Small-sized Marina/Local Harbour,9,Recreational,3
+355,118,BURAS BOAT HARBOR,29.35151,-89.53857,Small-sized Marina/Local Harbour,9,Recreational,3
+358,119,BURNT STORE,26.76206,-82.05801,Medium-sized Marina/Local Harbour,5,Recreational,3
+361,120,CABBAGE KEY,26.65646,-82.22186,Small-sized Marina/Local Harbour,9,Recreational,3
+364,121,CALADESI,28.0328,-82.8189,Small-sized Marina/Local Harbour,9,Recreational,3
+367,122,CALOOSA COVE,24.8497,-80.7389,Small-sized Marina/Local Harbour,9,Recreational,3
+370,123,CALOOSA ISLE,26.6392,-81.9075,Small-sized Marina/Local Harbour,9,Recreational,3
+373,124,CALUSA CAMP RESORT,25.1111,-80.4292,Small-sized Marina/Local Harbour,9,Recreational,3
+376,125,CALUSA ISLAND,25.91943,-81.6508,Small-sized Marina/Local Harbour,9,Recreational,3
+379,126,CANNONS,27.4225,-82.6683,Small-sized Marina/Local Harbour,9,Recreational,3
+382,127,CAPE CORAL BASIN,26.5433,-81.9498,Small-sized Marina/Local Harbour,9,Recreational,3
+385,128,CAPE CORAL BOAT,26.56614,-81.94609,Small-sized Marina/Local Harbour,9,Recreational,3
+388,129,CAPE HARBOUR,26.5467,-82.0082,Medium-sized Marina/Local Harbour,5,Recreational,3
+391,130,CAPE HAZE,26.87546,-82.31258,Small-sized Marina/Local Harbour,9,Recreational,3
+394,131,CAPTAIN HOOK'S,24.72949,-81.03037,Small-sized Marina/Local Harbour,9,Recreational,3
+397,132,CAPTIVA,26.50118,-82.18504,Medium-sized Marina/Local Harbour,5,Recreational,3
+400,133,CARLOUEL YACHT CLUB,28.00524,-82.82442,Small-sized Marina/Local Harbour,9,Recreational,3
+403,134,CARRABELLE,29.85013,-84.66878,Small-sized Marina/Local Harbour,9,Recreational,3
+406,135,CASEY KEY,27.1801,-82.492,Small-sized Marina/Local Harbour,9,Recreational,3
+409,136,CASINO ROUGE,30.46054,-91.1933,Medium-sized Marina/Local Harbour,5,Recreational,3
+412,137,CATCHERS,27.5075,-82.7133,Small-sized Marina/Local Harbour,9,Recreational,3
+415,138,CAXAMBAS PARK,25.9119,-81.7175,Small-sized Marina/Local Harbour,9,Recreational,3
+418,139,CEDAR KEY,29.13527,-83.03316,Small-sized Marina/Local Harbour,9,Recreational,3
+421,140,CHADWICK COVE,26.9225,-82.3597,Small-sized Marina/Local Harbour,9,Recreational,3
+424,141,CHARLOTTE,26.9592,-82.0811,Medium-sized Marina/Local Harbour,5,Recreational,3
+427,142,CHEAP THRILLS,27.74519,-82.74512,Small-sized Marina/Local Harbour,9,Recreational,3
+430,143,CHOKOLOSKEE ISLAND,25.81414,-81.36108,Small-sized Marina/Local Harbour,9,Recreational,3
+433,144,CLEAR LAKE MARINE,29.5667,-95.0567,Medium-sized Marina/Local Harbour,5,Recreational,3
+436,145,CLEAR LAKE SLIP,29.53773,-95.07632,Medium-sized Marina/Local Harbour,5,Recreational,3
+439,146,CLEARWATER BAY,27.9758,-82.8008,Medium-sized Marina/Local Harbour,5,Recreational,3
+442,147,CLEARWATER BEACH,27.97554,-82.82535,Medium-sized Marina/Local Harbour,5,Recreational,3
+445,148,CLEARWATER COMMUNITY,27.9553,-82.8258,Medium-sized Marina/Local Harbour,5,Recreational,3
+448,149,CLEARWATER YACHT,27.96627,-82.82089,Small-sized Marina/Local Harbour,9,Recreational,3
+451,150,CLUB OF NAPLES,26.28939,-81.81999,Small-sized Marina/Local Harbour,9,Recreational,3
+454,151,COASTAL MARINE MART,26.6886,-81.7925,Small-sized Marina/Local Harbour,9,Recreational,3
+457,152,COCODRIE,29.24447,-90.66493,Medium-sized Marina/Local Harbour,5,Recreational,3
+460,153,COCONUT CAY RESORT,24.72061,-81.06332,Small-sized Marina/Local Harbour,9,Recreational,3
+463,154,COCONUT PALMAS,24.7717,-80.9331,Small-sized Marina/Local Harbour,9,Recreational,3
+466,155,COMPASS ROSE,26.46304,-81.94907,Small-sized Marina/Local Harbour,9,Recreational,3
+469,156,COOK BAYOU,30.1344,-85.5078,Medium-sized Marina/Local Harbour,5,Recreational,3
+472,157,CORAL BAY,24.91929,-80.63483,Small-sized Marina/Local Harbour,9,Recreational,3
+475,158,CORTEZ COVE,27.46674,-82.6839,Medium-sized Marina/Local Harbour,5,Recreational,3
+478,159,CORTO STREET,30.1424,-85.64919,Small-sized Marina/Local Harbour,9,Recreational,3
+481,160,COVE CAY,27.93435,-82.7265,Small-sized Marina/Local Harbour,9,Recreational,3
+484,161,CRUSADER BOATS INC.,26.7893,-81.241,Small-sized Marina/Local Harbour,9,Recreational,3
+487,162,CUDJOE GARDENS,24.6578,-81.5053,Small-sized Marina/Local Harbour,9,Recreational,3
+490,163,DAUPHIN MARINA,30.26311,-88.11273,Medium-sized Marina/Local Harbour,5,Recreational,3
+493,164,DESTIN,30.3961,-86.5158,Medium-sized Marina/Local Harbour,5,Recreational,3
+496,165,DOG RIVER,30.57021,-88.08701,Large-sized Marina/Local Harbour,2,Recreational,3
+499,166,DOLPHIN BAY,30.48619,-86.25906,Small-sized Marina/Local Harbour,9,Recreational,3
+502,167,DOLPHIN LANDINGS,27.72292,-82.73759,Small-sized Marina/Local Harbour,9,Recreational,3
+505,168,DUCK KEY,24.77417,-80.91614,Small-sized Marina/Local Harbour,9,Recreational,3
+508,169,DULAC,29.342,-90.72063,Medium-sized Marina/Local Harbour,5,Recreational,3
+511,170,DUNEDIN,28.0108,-82.7919,Small-sized Marina/Local Harbour,9,Recreational,3
+514,171,EAGLE POINT,29.49614,-94.91052,Medium-sized Marina/Local Harbour,5,Recreational,3
+517,172,ELDRED'S,26.8292,-82.26826,Small-sized Marina/Local Harbour,9,Recreational,3
+520,173,ENDEVOUR,29.55967,-95.04195,Medium-sized Marina/Local Harbour,5,Recreational,3
+523,174,ESPLANADE,25.95339,-81.72935,Small-sized Marina/Local Harbour,9,Recreational,3
+526,175,EVERGLADES ISLE,25.8708,-81.3825,Small-sized Marina/Local Harbour,9,Recreational,3
+529,176,FACTORY BAY,25.96772,-81.72689,Small-sized Marina/Local Harbour,9,Recreational,3
+532,177,FIESTA KEY,24.8436,-80.79221,Small-sized Marina/Local Harbour,9,Recreational,3
+535,178,FISH TALE,26.4143,-81.8995,Medium-sized Marina/Local Harbour,5,Recreational,3
+538,179,FISH TRAP,26.33113,-81.83188,Small-sized Marina/Local Harbour,9,Recreational,3
+541,180,FISHERMAN'S VILLAGE,26.92847,-82.06295,Small-sized Marina/Local Harbour,9,Recreational,3
+544,181,FISHERMAN'S WHARF,27.1042,-82.4444,Small-sized Marina/Local Harbour,9,Recreational,3
+547,182,FLUFFY LANDING,30.42955,-86.13762,Small-sized Marina/Local Harbour,9,Recreational,3
+550,183,FLY CREEK,30.5419,-87.8997,Medium-sized Marina/Local Harbour,5,Recreational,3
+553,184,FORT MYERS BASIN,26.6486,-81.8683,Medium-sized Marina/Local Harbour,5,Recreational,3
+556,185,FORT MYERS BEACH,26.45402,-81.94534,Medium-sized Marina/Local Harbour,5,Recreational,3
+559,186,FORT MYERS BOAT CLUB,26.5368,-81.9217,Small-sized Marina/Local Harbour,9,Recreational,3
+562,187,FORT MYERS YACHT,26.63625,-81.88182,Small-sized Marina/Local Harbour,9,Recreational,3
+565,188,FORT WALTON BEACH,30.4036,-86.6192,Medium-sized Marina/Local Harbour,5,Recreational,3
+568,189,FORT WALTON,30.4258,-86.5911,Small-sized Marina/Local Harbour,9,Recreational,3
+571,190,FOUR WINDS,26.70086,-82.15622,Small-sized Marina/Local Harbour,9,Recreational,3
+574,191,FREEDOM BOAT CLUB,27.10646,-82.46107,Small-sized Marina/Local Harbour,9,Recreational,3
+577,192,FRESHWATER,29.54669,-92.30756,Medium-sized Marina/Local Harbour,5,Recreational,3
+580,193,FULTON,28.07258,-97.03668,Small-sized Marina/Local Harbour,9,Recreational,3
+583,194,GALATI YACHT,27.5269,-82.7206,Small-sized Marina/Local Harbour,9,Recreational,3
+586,195,GASPARILLA,26.8339,-82.2583,Small-sized Marina/Local Harbour,9,Recreational,3
+589,196,GASPARILLA INN,26.75657,-82.2614,Small-sized Marina/Local Harbour,9,Recreational,3
+592,197,GATOR CREEK MARINE,26.8925,-82.05078,Small-sized Marina/Local Harbour,9,Recreational,3
+595,198,GEIGER KEY,24.5822,-81.6472,Small-sized Marina/Local Harbour,9,Recreational,3
+598,199,GEORGE'S,28.06124,-82.7809,Medium-sized Marina/Local Harbour,5,Recreational,3
+601,200,GETAWAY,26.46873,-81.95191,Small-sized Marina/Local Harbour,9,Recreational,3
+604,201,GIUSEPPI'S WHARF,30.5122,-86.4831,Medium-sized Marina/Local Harbour,5,Recreational,3
+607,202,GLADES HAVEN,25.845,-81.3842,Small-sized Marina/Local Harbour,9,Recreational,3
+610,203,GLADES RV PARK,26.7883,-81.2303,Small-sized Marina/Local Harbour,9,Recreational,3
+613,204,GOOD TIMES,29.66865,-83.38773,Small-sized Marina/Local Harbour,9,Recreational,3
+616,205,GRAND LAGOON,30.32562,-87.36822,Small-sized Marina/Local Harbour,9,Recreational,3
+619,206,GRASSY KEY,24.7683,-80.9458,Small-sized Marina/Local Harbour,9,Recreational,3
+622,207,GRIFFITH'S,30.28854,-87.56466,Small-sized Marina/Local Harbour,9,Recreational,3
+625,208,GULF COAST MARINE,26.96821,-82.20901,Medium-sized Marina/Local Harbour,5,Recreational,3
+628,209,GULF HARBOR,27.1225,-82.4686,Medium-sized Marina/Local Harbour,5,Recreational,3
+631,210,GULF HARBOUR CLUB,26.53191,-81.93942,Medium-sized Marina/Local Harbour,5,Recreational,3
+634,211,GULF SHORES,30.23219,-87.99379,Small-sized Marina/Local Harbour,9,Recreational,3
+637,212,GULFPORT,27.73956,-82.69635,Medium-sized Marina/Local Harbour,5,Recreational,3
+640,213,GULFS,28.2386,-82.7503,Small-sized Marina/Local Harbour,9,Recreational,3
+643,214,HAMILTON HARBOR CLUB,26.10293,-81.78148,Small-sized Marina/Local Harbour,9,Recreational,3
+646,215,HARBOR HIDEAWAY,26.93156,-82.35588,Small-sized Marina/Local Harbour,9,Recreational,3
+649,216,HARBOR VISTA,27.41324,-82.57442,Small-sized Marina/Local Harbour,9,Recreational,3
+652,217,HARBORWALK,29.2937,-94.96906,Medium-sized Marina/Local Harbour,5,Recreational,3
+655,218,HAWK'S CAY RESORT,24.77784,-80.91225,Small-sized Marina/Local Harbour,9,Recreational,3
+658,219,HERITAGE MOTOR COACH,30.29739,-87.53215,Small-sized Marina/Local Harbour,9,Recreational,3
+661,220,HERNANDO BEACH,28.48999,-82.65141,Small-sized Marina/Local Harbour,9,Recreational,3
+664,221,HIDDEN HARBOR,27.24067,-82.50777,Small-sized Marina/Local Harbour,9,Recreational,3
+667,222,HILTON KEY LARGO,25.0683,-80.4725,Small-sized Marina/Local Harbour,9,Recreational,3
+670,223,HIX MARINE SERVICES,27.41966,-82.58415,Small-sized Marina/Local Harbour,9,Recreational,3
+673,224,HOLIDAY HARBOR,30.3102,-87.43777,Small-sized Marina/Local Harbour,9,Recreational,3
+676,225,HOLIDAY ISLE,24.94214,-80.60526,Medium-sized Marina/Local Harbour,5,Recreational,3
+679,226,HOME PORT,28.05901,-82.77744,Medium-sized Marina/Local Harbour,5,Recreational,3
+682,227,HOPPER'S LANDING,28.3445,-96.791,Medium-sized Marina/Local Harbour,5,Recreational,3
+685,228,HORSESHOE BEACH,29.4383,-83.2892,Small-sized Marina/Local Harbour,9,Recreational,3
+688,229,HOUSTON YACHT CLUB,29.61937,-94.99898,Medium-sized Marina/Local Harbour,5,Recreational,3
+691,230,HUBBARD'S,27.7844,-82.7829,Small-sized Marina/Local Harbour,9,Recreational,3
+694,231,HUDSON,30.29146,-87.55904,Medium-sized Marina/Local Harbour,5,Recreational,3
+697,232,HUDSON BEACH,28.36129,-82.7048,Small-sized Marina/Local Harbour,9,Recreational,3
+700,233,HYATT SARASOTA,27.34053,-82.54879,Small-sized Marina/Local Harbour,9,Recreational,3
+703,234,IDEAL,29.67393,-83.39732,Small-sized Marina/Local Harbour,9,Recreational,3
+706,235,INDIAN SPRINGS,27.87703,-82.84852,Medium-sized Marina/Local Harbour,5,Recreational,3
+709,236,ISLA DEL SOL,27.71569,-82.71524,Medium-sized Marina/Local Harbour,5,Recreational,3
+712,237,ISLAMORADA,24.90985,-80.64879,Small-sized Marina/Local Harbour,9,Recreational,3
+715,238,ISLAND COVE,30.40166,-87.25377,Small-sized Marina/Local Harbour,9,Recreational,3
+718,239,ISLAND MARINE,27.76872,-82.76566,Small-sized Marina/Local Harbour,9,Recreational,3
+721,240,ISLE OF CAPRI,25.98306,-81.72494,Small-sized Marina/Local Harbour,9,Recreational,3
+724,241,ISLES,26.92425,-82.07257,Medium-sized Marina/Local Harbour,5,Recreational,3
+727,242,JACK'S MARINE,26.7219,-81.7258,Small-sized Marina/Local Harbour,9,Recreational,3
+730,243,JENSEN'S TWIN PALMS,26.522,-82.1888,Small-sized Marina/Local Harbour,9,Recreational,3
+733,244,JOHN PENNEKAMP,25.1225,-80.4061,Small-sized Marina/Local Harbour,9,Recreational,3
+736,245,JOHN RETTIG'S BASE,30.41771,-88.92339,Small-sized Marina/Local Harbour,9,Recreational,3
+739,246,JOHN'S PASS,27.78288,-82.77936,Small-sized Marina/Local Harbour,9,Recreational,3
+742,247,JUG CREEK,26.69796,-82.14782,Small-sized Marina/Local Harbour,9,Recreational,3
+745,248,KAWAMA YACHT CLUB,25.0758,-80.4414,Small-sized Marina/Local Harbour,9,Recreational,3
+748,249,KEATON BEACH,29.82507,-83.5933,Small-sized Marina/Local Harbour,9,Recreational,3
+751,250,KEMAH,29.54557,-95.02016,Medium-sized Marina/Local Harbour,5,Recreational,3
+754,251,KEY COLONY BEACH,24.72306,-81.01894,Small-sized Marina/Local Harbour,9,Recreational,3
+757,252,KEY LARGO,25.0417,-80.4875,Small-sized Marina/Local Harbour,9,Recreational,3
+760,253,KEY LARGO YACHT CLUB,25.08154,-80.43921,Small-sized Marina/Local Harbour,9,Recreational,3
+763,254,KING FISHER,28.56749,-96.62304,Medium-sized Marina/Local Harbour,5,Recreational,3
+766,255,KIRBY,29.0117,-95.3142,Medium-sized Marina/Local Harbour,5,Recreational,3
+769,256,KNIGHT'S KEY,24.7064,-81.1225,Small-sized Marina/Local Harbour,9,Recreational,3
+772,257,LADY CREEK,29.97122,-84.34869,Small-sized Marina/Local Harbour,9,Recreational,3
+775,258,LAFITTE COVE,30.32836,-87.16656,Small-sized Marina/Local Harbour,9,Recreational,3
+778,259,LAGOON LIGHTHOUSE,30.14775,-85.74434,Small-sized Marina/Local Harbour,9,Recreational,3
+781,260,LAISHLEY PARK,26.939,-82.05186,Small-sized Marina/Local Harbour,9,Recreational,3
+784,261,LAKEWOOD YACHT CLUB,29.558,-95.02924,Medium-sized Marina/Local Harbour,5,Recreational,3
+787,262,LAMAR,28.13408,-96.99832,Medium-sized Marina/Local Harbour,5,Recreational,3
+790,263,LANDINGS,26.55234,-81.92175,Medium-sized Marina/Local Harbour,5,Recreational,3
+793,264,LANDS END,27.77969,-82.42314,Medium-sized Marina/Local Harbour,5,Recreational,3
+796,265,LARGO INTERCOASTAL,27.8864,-82.8394,Small-sized Marina/Local Harbour,9,Recreational,3
+799,266,LEGACY,26.6403,-81.8756,Medium-sized Marina/Local Harbour,5,Recreational,3
+802,267,LEGEND POINT,29.5438,-95.03706,Medium-sized Marina/Local Harbour,5,Recreational,3
+805,268,LEGENDARY,30.4033,-86.425,Small-sized Marina/Local Harbour,9,Recreational,3
+808,269,LEMON BAY,26.94498,-82.35297,Small-sized Marina/Local Harbour,9,Recreational,3
+811,270,LILLIAN,30.4053,-87.437,Medium-sized Marina/Local Harbour,5,Recreational,3
+814,271,LITTLE BIG MAN'S,26.9953,-81.0755,Small-sized Marina/Local Harbour,9,Recreational,3
+817,272,LITTLE HARBOR,27.7271,-82.47575,Small-sized Marina/Local Harbour,9,Recreational,3
+820,273,LITTLE TORCH KEY,24.66671,-81.38361,Small-sized Marina/Local Harbour,9,Recreational,3
+823,274,LONGBOAT KEY CLUB,27.3389,-82.5903,Small-sized Marina/Local Harbour,9,Recreational,3
+826,275,LONGBOAT KEY,27.3708,-82.6169,Medium-sized Marina/Local Harbour,5,Recreational,3
+829,276,LUTE'S MARINE,29.2486,-95.2347,Medium-sized Marina/Local Harbour,5,Recreational,3
+832,277,MADEIRA BAY,27.78887,-82.78358,Medium-sized Marina/Local Harbour,5,Recreational,3
+835,278,MADEIRA BEACH,27.80368,-82.7948,Small-sized Marina/Local Harbour,9,Recreational,3
+838,279,MALAGA,26.56593,-81.9409,Medium-sized Marina/Local Harbour,5,Recreational,3
+841,280,MANATEE LANDING,27.4997,-82.5575,Small-sized Marina/Local Harbour,9,Recreational,3
+844,281,MANGROVE,25.0117,-80.5192,Small-sized Marina/Local Harbour,9,Recreational,3
+847,282,MAR VISTA,27.4375,-82.6808,Small-sized Marina/Local Harbour,9,Recreational,3
+850,283,MARATHON,24.7074,-81.09178,Small-sized Marina/Local Harbour,9,Recreational,3
+853,284,MARATHON BOAT YARD,24.70864,-81.10741,Small-sized Marina/Local Harbour,9,Recreational,3
+856,285,MARCO ISLAND,25.9608,-81.7119,Small-sized Marina/Local Harbour,9,Recreational,3
+859,286,MARINA BAY RESORT,30.4025,-86.6092,Medium-sized Marina/Local Harbour,5,Recreational,3
+862,287,MARINA BEACH RESORT,27.70631,-82.677,Small-sized Marina/Local Harbour,9,Recreational,3
+865,288,MARINA DEL MAR,25.0957,-80.43132,Small-sized Marina/Local Harbour,9,Recreational,3
+868,289,MARINA DEL SOL,29.5506,-95.0508,Medium-sized Marina/Local Harbour,5,Recreational,3
+871,290,MARINA JACK,27.33286,-82.54468,Medium-sized Marina/Local Harbour,5,Recreational,3
+874,291,MARINA RESORT,26.8432,-81.0893,Small-sized Marina/Local Harbour,9,Recreational,3
+877,292,MARINATOWN,26.66,-81.8914,Small-sized Marina/Local Harbour,9,Recreational,3
+880,293,MARINEMAX,27.75663,-82.73244,Small-sized Marina/Local Harbour,9,Recreational,3
+883,294,MARINEMAX SARASOTA,27.33454,-82.57735,Small-sized Marina/Local Harbour,9,Recreational,3
+886,295,MARINEMAX VENICE,27.08083,-82.43132,Small-sized Marina/Local Harbour,9,Recreational,3
+889,296,MARINER'S COVE,27.73803,-82.70122,Small-sized Marina/Local Harbour,9,Recreational,3
+892,297,MARINER'S RESORT,25.07499,-80.46065,Small-sized Marina/Local Harbour,9,Recreational,3
+895,298,MARINO'S,28.0689,-82.7828,Small-sized Marina/Local Harbour,9,Recreational,3
+898,299,MARKER ONE,28.0489,-82.7883,Medium-sized Marina/Local Harbour,5,Recreational,3
+901,300,MARLOW,27.52669,-82.60928,Small-sized Marina/Local Harbour,9,Recreational,3
+904,301,MARQUARDT'S,29.95298,-85.42578,Small-sized Marina/Local Harbour,9,Recreational,3
+907,302,MATAGORDA,28.69111,-95.96622,Medium-sized Marina/Local Harbour,5,Recreational,3
+910,303,MATANZAS INN,26.45669,-81.95355,Medium-sized Marina/Local Harbour,5,Recreational,3
+913,304,MATLACHA OYSTER HOUS,26.6393,-82.05827,Small-sized Marina/Local Harbour,9,Recreational,3
+916,305,MAXIMO,27.7243,-82.6818,Medium-sized Marina/Local Harbour,5,Recreational,3
+919,306,MCDONALD'S RESTAURAN,27.81,-82.79272,Small-sized Marina/Local Harbour,9,Recreational,3
+922,307,MOORE HAVEN DOCK,26.83464,-81.08993,Small-sized Marina/Local Harbour,9,Recreational,3
+925,308,MORAN'S BARGE,25.9333,-81.655,Small-sized Marina/Local Harbour,9,Recreational,3
+928,309,MOSS,26.45749,-81.95625,Medium-sized Marina/Local Harbour,5,Recreational,3
+931,310,MULLOCK CREEK,26.47339,-81.85063,Small-sized Marina/Local Harbour,9,Recreational,3
+934,311,MUNSON ISLAND,24.6233,-81.4019,Small-sized Marina/Local Harbour,9,Recreational,3
+937,312,NAPLES CITY DOCK,26.13169,-81.79358,Small-sized Marina/Local Harbour,9,Recreational,3
+940,313,NAPLES GULF SHORES,26.12294,-81.77301,Small-sized Marina/Local Harbour,9,Recreational,3
+943,314,NATURE'S RESORT,28.80336,-82.60669,Small-sized Marina/Local Harbour,9,Recreational,3
+946,315,NAVY COVE HARBOR,30.23379,-87.9744,Small-sized Marina/Local Harbour,9,Recreational,3
+949,316,NORREIGO POINT,30.3879,-86.4874,Small-sized Marina/Local Harbour,9,Recreational,3
+952,317,NORTH CAPTIVA ISLAND,26.59985,-82.21644,Small-sized Marina/Local Harbour,9,Recreational,3
+955,318,NORTH LIGHT,30.5194,-86.4944,Small-sized Marina/Local Harbour,9,Recreational,3
+958,319,OCEAN POINTE,25.01866,-80.49852,Small-sized Marina/Local Harbour,9,Recreational,3
+961,320,OCEAN SPRINGS,30.40431,-88.82283,Medium-sized Marina/Local Harbour,5,Recreational,3
+964,321,OHIO KEY,24.6717,-81.2494,Small-sized Marina/Local Harbour,9,Recreational,3
+967,322,OLD MARCO LODGE,25.92736,-81.64665,Medium-sized Marina/Local Harbour,5,Recreational,3
+970,323,OLDE FISH HOUSE,26.6315,-82.0702,Small-sized Marina/Local Harbour,9,Recreational,3
+973,324,O'NEILL'S,27.70759,-82.68054,Medium-sized Marina/Local Harbour,5,Recreational,3
+976,325,ONO,30.29735,-87.50066,Medium-sized Marina/Local Harbour,5,Recreational,3
+979,326,ORANGE BEACH,30.28381,-87.56368,Medium-sized Marina/Local Harbour,5,Recreational,3
+982,327,OWL CREEK BOAT WORKS,26.7283,-81.7511,Medium-sized Marina/Local Harbour,5,Recreational,3
+985,328,PALACE CASINO RESORT,30.39731,-88.86098,Medium-sized Marina/Local Harbour,5,Recreational,3
+988,329,PALM COURT YACHT,30.39992,-86.6006,Medium-sized Marina/Local Harbour,5,Recreational,3
+991,330,PALM GROVE LODGE,29.6828,-83.3597,Small-sized Marina/Local Harbour,9,Recreational,3
+994,331,PALM ISLAND RESORT,26.87047,-82.31056,Small-sized Marina/Local Harbour,9,Recreational,3
+997,332,PALM RESORT,28.0858,-82.7703,Small-sized Marina/Local Harbour,9,Recreational,3
+1000,333,PALMETTO,27.52464,-82.60759,Small-sized Marina/Local Harbour,9,Recreational,3
+1003,334,PANACEA,30.0217,-84.3853,Small-sized Marina/Local Harbour,9,Recreational,3
+1006,335,PARADISE,26.6275,-81.9175,Medium-sized Marina/Local Harbour,5,Recreational,3
+1009,336,PARADISE ISLAND,27.76933,-82.75728,Small-sized Marina/Local Harbour,9,Recreational,3
+1012,337,PARK SHORE,26.1994,-81.8122,Small-sized Marina/Local Harbour,9,Recreational,3
+1015,338,PARKSIDE,29.5644,-95.0694,Medium-sized Marina/Local Harbour,5,Recreational,3
+1018,339,PASADENA,27.75246,-82.7369,Medium-sized Marina/Local Harbour,5,Recreational,3
+1021,340,PASADENA YACHT CLUB,27.7483,-82.7219,Medium-sized Marina/Local Harbour,5,Recreational,3
+1024,341,PASS-A-GRILLE,27.69591,-82.73499,Small-sized Marina/Local Harbour,9,Recreational,3
+1027,342,PELICAN BEND,25.98595,-81.72621,Small-sized Marina/Local Harbour,9,Recreational,3
+1030,343,PELICAN ISLE,26.2934,-81.82065,Small-sized Marina/Local Harbour,9,Recreational,3
+1033,344,PELICAN MARINE,28.3511,-82.7003,Small-sized Marina/Local Harbour,9,Recreational,3
+1036,345,PENSACOLA SHIPYARD,30.40835,-87.25636,Medium-sized Marina/Local Harbour,5,Recreational,3
+1039,346,PERDIDO COVE,30.31237,-87.42796,Small-sized Marina/Local Harbour,9,Recreational,3
+1042,347,PERICO,27.4969,-82.6867,Medium-sized Marina/Local Harbour,5,Recreational,3
+1045,348,PETE'S PIER INC,28.8931,-82.5964,Small-sized Marina/Local Harbour,9,Recreational,3
+1048,349,PIER 98,30.1186,-85.5961,Small-sized Marina/Local Harbour,9,Recreational,3
+1051,350,PILOT HOUSE,25.0875,-80.4417,Small-sized Marina/Local Harbour,9,Recreational,3
+1054,351,PINE ISLAND,26.59237,-82.12427,Small-sized Marina/Local Harbour,9,Recreational,3
+1057,352,PINELAND,26.6625,-82.1548,Small-sized Marina/Local Harbour,9,Recreational,3
+1060,353,PINK SHELL,26.46307,-81.96503,Medium-sized Marina/Local Harbour,5,Recreational,3
+1063,354,PIRATES COVE & BOAT,30.3225,-87.5336,Small-sized Marina/Local Harbour,9,Recreational,3
+1066,355,PIRATES COVE,30.14344,-85.74571,Small-sized Marina/Local Harbour,9,Recreational,3
+1069,356,PLACIDA MARINA,26.93267,-82.33831,Small-sized Marina/Local Harbour,9,Recreational,3
+1072,357,PLANTATION,24.9658,-80.5697,Medium-sized Marina/Local Harbour,5,Recreational,3
+1075,358,PLEASURE ISLAND,29.86738,-93.92357,Medium-sized Marina/Local Harbour,5,Recreational,3
+1078,359,POINT CADET,30.39002,-88.85965,Medium-sized Marina/Local Harbour,5,Recreational,3
+1081,360,POPP'S MOTEL,25.0525,-80.4839,Small-sized Marina/Local Harbour,9,Recreational,3
+1084,361,PORT HUDSON,28.36589,-82.70708,Small-sized Marina/Local Harbour,9,Recreational,3
+1087,362,PORT LABELLE,26.771,-81.391,Medium-sized Marina/Local Harbour,5,Recreational,3
+1090,363,PORT OF NAPLES,26.14015,-81.78873,Small-sized Marina/Local Harbour,9,Recreational,3
+1093,364,PORT OF THE ISLANDS,25.95644,-81.51004,Medium-sized Marina/Local Harbour,5,Recreational,3
+1096,365,PORT RICHEY,28.27023,-82.72649,Small-sized Marina/Local Harbour,9,Recreational,3
+1099,366,PORT SAINT JOE,29.8153,-85.31,Medium-sized Marina/Local Harbour,5,Recreational,3
+1102,367,PORT SANIBEL,26.49,-81.98944,Small-sized Marina/Local Harbour,9,Recreational,3
+1105,368,PORTOFINO YACHT CLUB,29.54562,-95.02596,Medium-sized Marina/Local Harbour,5,Recreational,3
+1108,369,PRIORITY,27.97176,-82.82414,Small-sized Marina/Local Harbour,9,Recreational,3
+1111,370,PROSPERITY POINTE,26.6631,-81.8767,Small-sized Marina/Local Harbour,9,Recreational,3
+1114,371,PUNTA GORDA,26.9442,-82.0364,Small-sized Marina/Local Harbour,9,Recreational,3
+1117,372,REDINGTON SHORES,27.8283,-82.8292,Small-sized Marina/Local Harbour,9,Recreational,3
+1120,373,REGATTA POINTE,27.5125,-82.5732,Medium-sized Marina/Local Harbour,5,Recreational,3
+1123,374,RIALTO,26.7175,-81.6553,Small-sized Marina/Local Harbour,9,Recreational,3
+1126,375,RIVER HAVEN,29.6675,-83.3758,Small-sized Marina/Local Harbour,9,Recreational,3
+1129,376,RIVER RUN,30.63,-87.0342,Small-sized Marina/Local Harbour,9,Recreational,3
+1132,377,RIVERHAVEN,28.78481,-82.61795,Small-sized Marina/Local Harbour,9,Recreational,3
+1135,378,RIVERHOUSE DOCKS,26.83129,-81.08963,Small-sized Marina/Local Harbour,9,Recreational,3
+1138,379,RIVERTOWN BOATWORKS,27.5228,-82.6508,Small-sized Marina/Local Harbour,9,Recreational,3
+1141,380,RIVIERA,26.88871,-82.05395,Small-sized Marina/Local Harbour,9,Recreational,3
+1144,381,RIVIERA DUNES,27.51218,-82.55766,Medium-sized Marina/Local Harbour,5,Recreational,3
+1147,382,ROBBIE'S,24.8825,-80.6892,Small-sized Marina/Local Harbour,9,Recreational,3
+1150,383,ROBERTS BAY,27.2872,-82.5397,Small-sized Marina/Local Harbour,9,Recreational,3
+1153,384,ROCKPORT,28.03668,-97.03841,Medium-sized Marina/Local Harbour,5,Recreational,3
+1156,385,ROD & GUN LODGE,25.8578,-81.3881,Medium-sized Marina/Local Harbour,5,Recreational,3
+1159,386,ROD & REEL PIER,27.5383,-82.7394,Medium-sized Marina/Local Harbour,5,Recreational,3
+1162,387,ROMAR,30.27678,-87.57476,Medium-sized Marina/Local Harbour,5,Recreational,3
+1165,388,ROSE,25.96226,-81.72618,Medium-sized Marina/Local Harbour,5,Recreational,3
+1168,389,ROYAL PALM,26.9644,-82.3692,Small-sized Marina/Local Harbour,9,Recreational,3
+1171,390,SABINE,30.33474,-87.14459,Medium-sized Marina/Local Harbour,5,Recreational,3
+1174,391,SAFETY HARBOR CITY,27.98868,-82.68718,Medium-sized Marina/Local Harbour,5,Recreational,3
+1177,392,SALTY SAM'S,26.45678,-81.94364,Medium-sized Marina/Local Harbour,5,Recreational,3
+1180,393,SAN LEON,29.49701,-94.91537,Medium-sized Marina/Local Harbour,5,Recreational,3
+1183,394,SANDY COVE MARINE,24.8558,-80.7283,Small-sized Marina/Local Harbour,9,Recreational,3
+1186,395,SANIBEL,26.45,-82.0306,Medium-sized Marina/Local Harbour,5,Recreational,3
+1189,396,SANIBEL HARBOUR,26.4883,-82.0125,Medium-sized Marina/Local Harbour,5,Recreational,3
+1192,397,SANROC CAY CHARTERS,30.27758,-87.56053,Small-sized Marina/Local Harbour,9,Recreational,3
+1195,398,SANTA ROSA,30.3542,-87.1558,Small-sized Marina/Local Harbour,9,Recreational,3
+1198,399,SARA BAY,27.41563,-82.57526,Small-sized Marina/Local Harbour,9,Recreational,3
+1201,400,SARASOTA,27.3222,-82.5683,Medium-sized Marina/Local Harbour,5,Recreational,3
+1204,401,SARASOTA SAILING,27.33729,-82.57319,Small-sized Marina/Local Harbour,9,Recreational,3
+1207,402,SCENIC BASIN,30.5975,-88.1136,Small-sized Marina/Local Harbour,9,Recreational,3
+1210,403,SCIPIO CREEK,29.73258,-84.99005,Small-sized Marina/Local Harbour,9,Recreational,3
+1213,404,SEA BIRD,24.83754,-80.79968,Small-sized Marina/Local Harbour,9,Recreational,3
+1216,405,SEA COVE MOTEL &,24.73167,-81.01442,Small-sized Marina/Local Harbour,9,Recreational,3
+1219,406,SEA HAG,29.67078,-83.38788,Small-sized Marina/Local Harbour,9,Recreational,3
+1222,407,SEABROOK,29.55135,-95.02735,Medium-sized Marina/Local Harbour,5,Recreational,3
+1225,408,SEAGRASS,28.79586,-82.6053,Small-sized Marina/Local Harbour,9,Recreational,3
+1228,409,SHALIMAR,30.43583,-86.58389,Small-sized Marina/Local Harbour,9,Recreational,3
+1231,410,SHELL ISLAND,30.1583,-84.2161,Small-sized Marina/Local Harbour,9,Recreational,3
+1234,411,SHELL KEY SHUTTLE,27.6879,-82.73563,Small-sized Marina/Local Harbour,9,Recreational,3
+1237,412,SHELL POINT,30.06063,-84.29088,Small-sized Marina/Local Harbour,9,Recreational,3
+1240,413,SHELL POINT RUSKIN,27.71851,-82.47932,Medium-sized Marina/Local Harbour,5,Recreational,3
+1243,414,SHIELDS,30.15535,-84.20112,Medium-sized Marina/Local Harbour,5,Recreational,3
+1246,415,SIESTA KEY,27.2525,-82.5342,Small-sized Marina/Local Harbour,9,Recreational,3
+1249,416,SMITH'S FISH CAMP,30.54709,-87.19389,Small-sized Marina/Local Harbour,9,Recreational,3
+1252,417,SNAKE CREEK,24.95216,-80.58704,Small-sized Marina/Local Harbour,9,Recreational,3
+1255,418,SNEAD ISLAND,27.525,-82.6203,Medium-sized Marina/Local Harbour,5,Recreational,3
+1258,419,SNOOK BIGHT,26.43884,-81.9192,Small-sized Marina/Local Harbour,9,Recreational,3
+1261,420,SOMBRERO RESORT,24.71017,-81.08089,Small-sized Marina/Local Harbour,9,Recreational,3
+1264,421,SOUTH SEAS ISLAND,26.5485,-82.1968,Medium-sized Marina/Local Harbour,5,Recreational,3
+1267,422,SOUTH SHORE HARBOUR,29.5475,-95.0664,Medium-sized Marina/Local Harbour,5,Recreational,3
+1270,423,SOUTH VENICE BEACH,27.03859,-82.42636,Small-sized Marina/Local Harbour,9,Recreational,3
+1273,424,SOUTHWIND,30.32682,-87.35776,Small-sized Marina/Local Harbour,9,Recreational,3
+1276,425,SPORTSMAN,30.29246,-87.54758,Medium-sized Marina/Local Harbour,5,Recreational,3
+1279,426,SPORTSMAN LODGE,29.73949,-84.89908,Small-sized Marina/Local Harbour,9,Recreational,3
+1282,427,ST ANDREWS,30.1675,-85.7042,Medium-sized Marina/Local Harbour,5,Recreational,3
+1285,428,ST CHARLES CLUB,26.51075,-81.98073,Medium-sized Marina/Local Harbour,5,Recreational,3
+1288,429,ST JAMES CITY,26.50234,-82.08014,Small-sized Marina/Local Harbour,9,Recreational,3
+1291,430,ST. PETE BEACH,27.70596,-82.73595,Small-sized Marina/Local Harbour,9,Recreational,3
+1294,431,ST. PETE LOGGERHEAD,27.71351,-82.6782,Small-sized Marina/Local Harbour,9,Recreational,3
+1297,432,ST. PETERSBURG YACHT,27.69841,-82.73509,Small-sized Marina/Local Harbour,9,Recreational,3
+1300,433,STEINHATCHEE,29.67221,-83.3917,Small-sized Marina/Local Harbour,9,Recreational,3
+1303,434,STERLING,28.4937,-82.65063,Medium-sized Marina/Local Harbour,5,Recreational,3
+1306,435,STUMP PASS,26.9058,-82.3289,Small-sized Marina/Local Harbour,9,Recreational,3
+1309,436,SUGARLOAF,24.6472,-81.5653,Small-sized Marina/Local Harbour,9,Recreational,3
+1312,437,SUMMERLAND KEY,24.65591,-81.44873,Small-sized Marina/Local Harbour,9,Recreational,3
+1315,438,SUN,30.28152,-87.56093,Medium-sized Marina/Local Harbour,5,Recreational,3
+1318,439,SUN,30.18418,-85.73296,Medium-sized Marina/Local Harbour,5,Recreational,3
+1321,440,SUN,30.18418,-85.73296,Medium-sized Marina/Local Harbour,5,Recreational,3
+1324,441,SUWANNEE,29.32864,-83.14165,Small-sized Marina/Local Harbour,9,Recreational,3
+1327,442,SWAMPHOUSE,30.54618,-87.19692,Small-sized Marina/Local Harbour,9,Recreational,3
+1330,443,SWEET WATER LANDING,26.715,-81.7619,Small-sized Marina/Local Harbour,9,Recreational,3
+1333,444,TALEN'S,29.9336,-92.6547,Medium-sized Marina/Local Harbour,5,Recreational,3
+1336,445,TARPON COVE,26.29208,-81.81406,Small-sized Marina/Local Harbour,9,Recreational,3
+1339,446,TARPON POINT,26.5378,-82.0008,Medium-sized Marina/Local Harbour,5,Recreational,3
+1342,447,TARPON SPRINGS,28.1553,-82.7458,Small-sized Marina/Local Harbour,9,Recreational,3
+1345,448,TAVERNIER CREEK,25.00439,-80.53423,Small-sized Marina/Local Harbour,9,Recreational,3
+1348,449,TEXAS CORINTHIAN,29.52941,-95.00385,Small-sized Marina/Local Harbour,9,Recreational,3
+1351,450,THE CASTAWAYS,26.481,-82.1797,Small-sized Marina/Local Harbour,9,Recreational,3
+1354,451,THUNDER MARINE,27.81193,-82.76033,Small-sized Marina/Local Harbour,9,Recreational,3
+1357,452,TIDE CREEK,29.9775,-84.3803,Small-sized Marina/Local Harbour,9,Recreational,3
+1360,453,TIERRA VERDE RESORT,27.68846,-82.72179,Medium-sized Marina/Local Harbour,5,Recreational,3
+1363,454,TIKI ISLAND,29.29805,-94.91563,Medium-sized Marina/Local Harbour,5,Recreational,3
+1366,455,TOWERS YACHT CLUB,26.40583,-81.88586,Small-sized Marina/Local Harbour,9,Recreational,3
+1369,456,TREASURE BAY,27.77166,-82.76967,Small-sized Marina/Local Harbour,9,Recreational,3
+1372,457,TREASURE ISLAND,30.14577,-85.74772,Small-sized Marina/Local Harbour,9,Recreational,3
+1375,458,TREASURE MARINE INC,24.9553,-80.5714,Small-sized Marina/Local Harbour,9,Recreational,3
+1378,459,TRENT,30.28852,-87.56281,Medium-sized Marina/Local Harbour,5,Recreational,3
+1381,460,TURTLE BEACH,27.22,-82.5144,Small-sized Marina/Local Harbour,9,Recreational,3
+1384,461,TURTLE COVE,28.1521,-82.76212,Small-sized Marina/Local Harbour,9,Recreational,3
+1387,462,TWEEN WATERS INN,26.51012,-82.18905,Small-sized Marina/Local Harbour,9,Recreational,3
+1390,463,TWIN BROTHERS,29.77207,-91.75948,Medium-sized Marina/Local Harbour,5,Recreational,3
+1393,464,TWIN DOLPHIN,27.49977,-82.57304,Medium-sized Marina/Local Harbour,5,Recreational,3
+1396,465,TWIN RIVERS,28.9031,-82.6408,Small-sized Marina/Local Harbour,9,Recreational,3
+1399,466,UNCLE HENRY'S,26.8033,-82.2742,Small-sized Marina/Local Harbour,9,Recreational,3
+1402,467,UPPER KEYS SAILING,25.09945,-80.44159,Small-sized Marina/Local Harbour,9,Recreational,3
+1405,468,VALHALLA BEACH,24.7428,-80.9792,Small-sized Marina/Local Harbour,9,Recreational,3
+1408,469,VENICE YACHT CLUB,27.10932,-82.46246,Small-sized Marina/Local Harbour,9,Recreational,3
+1411,470,VIKING,26.63873,-82.06054,Medium-sized Marina/Local Harbour,5,Recreational,3
+1414,471,W.P. FRANKLIN LOCK R,26.7231,-81.6925,Medium-sized Marina/Local Harbour,5,Recreational,3
+1417,472,WALKERS COON KEY,25.92077,-81.64317,Small-sized Marina/Local Harbour,9,Recreational,3
+1420,473,WATERFORD HARBOR,29.54648,-95.04289,Medium-sized Marina/Local Harbour,5,Recreational,3
+1423,474,WATSON BAYOU,30.15338,-85.63753,Small-sized Marina/Local Harbour,9,Recreational,3
+1426,475,WAVES BOAT CLUB,27.27252,-82.53314,Small-sized Marina/Local Harbour,9,Recreational,3
+1429,476,WEEKS FISH CAMP,26.4033,-81.8397,Small-sized Marina/Local Harbour,9,Recreational,3
+1432,477,WEST END,29.1458,-95.0458,Small-sized Marina/Local Harbour,9,Recreational,3
+1435,478,WHIDDEN'S,26.74472,-82.2579,Small-sized Marina/Local Harbour,9,Recreational,3
+1438,479,WINDSONG,28.2317,-82.7319,Medium-sized Marina/Local Harbour,5,Recreational,3
+1441,480,WOODY'S WATERFRONT,27.7408,-82.7547,Small-sized Marina/Local Harbour,9,Recreational,3
+1444,481,WORLD WIDE SPORTSMAN,24.91482,-80.63979,Small-sized Marina/Local Harbour,9,Recreational,3
+1447,482,YACHT CENTER LAND,27.35347,-82.54865,Small-sized Marina/Local Harbour,9,Recreational,3
+1450,483,ZANE GREY,24.82483,-80.8144,Small-sized Marina/Local Harbour,9,Recreational,3
+1453,484,ZEKE'S LANDING,30.2759,-87.56932,Small-sized Marina/Local Harbour,9,Recreational,3
+1456,485,BOLIVAR ROADS ANCH,29.34904,-94.75699,Medium-sized Anchorage,4,Anchorage - off-shore commercial,1
+1459,486,BROWNSVILLE ANCH,26.06599,-97.06764,Medium-sized Anchorage,4,Anchorage - off-shore commercial,1
+1462,487,CORPUS CHRISTI ANCH,27.80412,-96.91109,Medium-sized Anchorage,4,Anchorage - off-shore commercial,1
+1465,488,FREEPORT ANCH,28.82507,-95.1543,Medium-sized Anchorage,4,Anchorage - off-shore commercial,1
+1468,489,HOUSTON ANCH,29.20991,-94.55109,Large-sized Anchorage,1,Anchorage - off-shore commercial,1
+1471,490,LAKE CHARLES ANCH,29.39674,-93.25264,Medium-sized Anchorage,4,Anchorage - off-shore commercial,1
+1474,491,LOOP ANCH,28.87158,-89.91863,Small-sized Anchorage,8,Anchorage - off-shore commercial,1
+1477,492,MOBILE ANCH,30.06718,-88.06984,Medium-sized Anchorage,4,Anchorage - off-shore commercial,1
+1480,493,PASCAGOULA ANCH,30.10354,-88.545,Medium-sized Anchorage,4,Anchorage - off-shore commercial,1
+1483,494,PENSACOLA ANCH,30.26826,-87.22595,Small-sized Anchorage,8,Anchorage - off-shore commercial,1
+1486,495,PILOTTOWN ANCH,29.17813,-89.26962,Medium-sized Anchorage,4,Anchorage - off-shore commercial,1
+1489,496,PORT ARTHUR ANCH,29.38607,-93.69553,Medium-sized Anchorage,4,Anchorage - off-shore commercial,1
+1492,497,SOUTHWEST PASS ANCH,28.87835,-89.34906,Medium-sized Anchorage,4,Anchorage - off-shore commercial,1
+1495,498,TAMPA ANCH,27.63883,-82.99999,Medium-sized Anchorage,4,Anchorage - off-shore commercial,1
+1498,499,365 SOLOMONS DRIVE,30.1825,-85.75349,Medium-sized Marina/Local Harbour,5,Recreational,3
+1501,500,ABC MADEIRA BEACH,27.80346,-82.7999,Small-sized Marina/Local Harbour,9,Recreational,3
+1504,501,AINGER CREEK,26.92904,-82.33624,Small-sized Marina/Local Harbour,9,Recreational,3
+1507,502,AJ'S SEAFOOD,30.391,-86.50319,Medium-sized Marina/Local Harbour,5,Recreational,3
+1510,503,ALLIGATOR POINT,29.9044,-84.4175,Small-sized Marina/Local Harbour,9,Recreational,3
+1513,504,ALVA OAK PARK,26.71382,-81.59812,Small-sized Marina/Local Harbour,9,Recreational,3
+1516,505,ANCLOTE ISLES,28.15854,-82.76134,Small-sized Marina/Local Harbour,9,Recreational,3
+1519,506,ANCLOTE VILLAGE,28.17293,-82.78542,Small-sized Marina/Local Harbour,9,Recreational,3
+1522,507,ANDERSONS,30.14931,-85.74751,Medium-sized Marina/Local Harbour,5,Recreational,3
+1525,508,ANTIGUA COVE,27.72584,-82.47081,Small-sized Marina/Local Harbour,9,Recreational,3
+1528,509,APALACHICOLA,29.73386,-84.99547,Small-sized Marina/Local Harbour,9,Recreational,3
+1531,510,APALACHICOLA RIVER,29.72611,-84.98103,Small-sized Marina/Local Harbour,9,Recreational,3
+1534,511,APOLLO BEACH,27.78468,-82.42368,Medium-sized Marina/Local Harbour,5,Recreational,3
+1537,512,APRIL FOOL POINT,29.47178,-94.92651,Small-sized Marina/Local Harbour,9,Recreational,3
+1540,513,BACK BAY,26.32987,-81.83041,Small-sized Marina/Local Harbour,9,Recreational,3
+1543,514,BAHIA HONDA,24.6558,-81.2792,Small-sized Marina/Local Harbour,9,Recreational,3
+1546,515,BAHIA MAR,30.40043,-87.24169,Medium-sized Marina/Local Harbour,5,Recreational,3
+1549,516,BAL HARBOR,29.55502,-95.07362,Large-sized Marina/Local Harbour,2,Recreational,3
+1552,517,BARBER,30.31377,-87.56906,Medium-sized Marina/Local Harbour,5,Recreational,3
+1555,518,BAREFOOT BAY RESORT,27.97891,-82.82495,Medium-sized Marina/Local Harbour,5,Recreational,3
+1558,519,BAREFOOT BOAT CLUB,26.32901,-81.83479,Small-sized Marina/Local Harbour,9,Recreational,3
+1561,520,BASTROP,29.0853,-95.2872,Small-sized Marina/Local Harbour,9,Recreational,3
+1564,521,BATTERY PARK,29.72238,-84.98175,Small-sized Marina/Local Harbour,9,Recreational,3
+1567,522,BAY GROVE LANDINGS,28.03548,-82.67873,Medium-sized Marina/Local Harbour,5,Recreational,3
+1570,523,BAY PINES,27.8159,-82.76596,Medium-sized Marina/Local Harbour,5,Recreational,3
+1573,524,BAY POINT,30.14464,-85.72824,Medium-sized Marina/Local Harbour,5,Recreational,3
+1576,525,BAY ST LOUIS,30.32495,-89.32726,Small-sized Marina/Local Harbour,9,Recreational,3
+1579,526,BAY STREET VILLAS,27.7421,-82.74545,Small-sized Marina/Local Harbour,9,Recreational,3
+1582,527,BAY WATER EXCLUSIVE,26.33148,-81.83618,Small-sized Marina/Local Harbour,9,Recreational,3
+1585,528,BAYOU BLACK,29.62969,-90.94508,Medium-sized Marina/Local Harbour,5,Recreational,3
+1588,529,BAYOU JOE'S,30.15247,-85.65898,Small-sized Marina/Local Harbour,9,Recreational,3
+1591,530,BAYOU TECHE,29.8317,-91.5378,Medium-sized Marina/Local Harbour,5,Recreational,3
+1594,531,BAYSHORE GARDENS,27.42056,-82.5873,Small-sized Marina/Local Harbour,9,Recreational,3
+1597,532,BAYSIDE INN,27.77382,-82.77277,Small-sized Marina/Local Harbour,9,Recreational,3
+1600,533,BAYTOWNE,30.3878,-86.3283,Medium-sized Marina/Local Harbour,5,Recreational,3
+1603,534,BAYVIEW INN RESORT,24.7883,-80.8881,Small-sized Marina/Local Harbour,9,Recreational,3
+1606,535,BEAR CREEK,30.45683,-86.53048,Medium-sized Marina/Local Harbour,5,Recreational,3
+1609,536,BEAR POINT,30.3098,-87.52618,Small-sized Marina/Local Harbour,9,Recreational,3
+1612,537,BELLE,27.9894,-82.8292,Medium-sized Marina/Local Harbour,5,Recreational,3
+1615,538,BELLE HATCHEE,26.76896,-81.43736,Medium-sized Marina/Local Harbour,5,Recreational,3
+1618,539,BELLEAIR BEACH,27.93741,-82.83749,Small-sized Marina/Local Harbour,9,Recreational,3
+1621,540,BELLEAIR CAUSEWAY,27.9169,-82.8269,Medium-sized Marina/Local Harbour,5,Recreational,3
+1624,541,BIG HICKORY FISHING,26.35685,-81.85583,Small-sized Marina/Local Harbour,9,Recreational,3
+1627,542,BIG PINE KEY,24.6486,-81.3297,Small-sized Marina/Local Harbour,9,Recreational,3
+1630,543,BILOXI BOARDWALK,30.40738,-88.86176,Small-sized Marina/Local Harbour,9,Recreational,3
+1633,544,HOMEPORT,30.28085,-87.68518,Medium-sized Marina/Local Harbour,5,Recreational,3
+1636,545,MARINER'S LODGE,26.47693,-81.95326,Small-sized Marina/Local Harbour,9,Recreational,3
+1639,546,PRESNELL'S BAYSIDE,29.7478,-85.3033,Small-sized Marina/Local Harbour,9,Recreational,3
+1642,547,GOLA,28.49692,-94.60258,Medium-sized Offshore Terminal,6,Anchorage - off-shore commercial,1
+1645,548,ACADIAN CONTRACTORS,29.90149,-92.11075,Medium-sized Port,7,Commercial,2
+1648,549,ALLEGHANY,30.34581,-87.2661,Medium-sized Port,7,Commercial,2
+1651,550,AMELIA,29.66484,-91.1133,Large-sized Port,3,Commercial,2
+1654,551,ARANSAS PASS,27.90137,-97.13228,Medium-sized Port,7,Commercial,2
+1657,552,ACADIAN CONTRACTORS,29.90149,-92.11075,Medium-sized Port,7,Commercial,2
+1660,553,BATON ROUGE,30.45484,-91.19211,Medium-sized Port,7,Commercial,2
+1663,554,BAYOU LA BATRE,30.39253,-88.26582,Medium-sized Port,7,Commercial,2

@@ -1,0 +1,500 @@
+major_area_code,station_code,Site_name,y,x
+1,1,Deep Bayou Landing Public Ramp (Louisiana),29.790555556,-93.74972222
+1,2,Sabine Lake Causeway Public Ramp and adjoining shoreline (Louisiana side),29.767777778,-93.8925
+1,3,Sabine Lake Causeway Public Ramp and adjoining shoreline (Texas side),29.765,-93.89805556
+1,4,(Pleasure Island Marina Docks F & G - Deleted 11/21/08),29.868888889,-93.92694444
+1,5,Pleasure Island Marina Dock A (53 wet slips),29.868333333,-93.92777778
+1,6,Pleasure Island Marina Public Ramp,29.867222222,-93.92166667
+1,7,(Pleasure Island North Levy Ramp - Deleted 11/21/93),29.925277778,-93.87138889
+1,8,(Sea Rim State Park Ramp - Deleted 5/15/94),29.687222222,-94.03777778
+1,9,Texas Bayou Public Ramp,29.710833333,-93.86055556
+1,10,Sabine Pass Battleground State Historic Site Ramp (includes safety basin bulkhead),29.734444444,-93.875
+1,11,Keith Lake Ramp,29.759722222,-93.93583333
+1,12,Public ramp at ICWW under north end of State Hwy. 87 bridge,29.824166667,-93.96472222
+1,13,Port Neches Park Public Ramp,29.998055556,-93.95194444
+1,14,Ancelet’s Marina Ramp (includes wet slips),29.97,-93.87416667
+1,15,Provisional Marsh Public Ramp (north of Rainbow Bridge northern turnaround),29.996666667,-93.86777778
+1,16,Bailey's Fish Camp Ramp,29.985,-93.84027778
+1,17,(LeBlanc's Ramp - Deleted 11/21/95),30.038055556,-93.79305556
+1,18,Orange Boat Club Ramp (includes wet slips and associated bulkhead),30.065,-93.74833333
+1,19,(River Road Marina Ramp - Deleted 5/15/96),30.061111111,-93.74694444
+1,20,Broadway Public Ramp,29.739444444,-93.88916667
+1,21,Lottie's Landing Ramp,30.065833333,-93.74722222
+1,22,(Pleasure Island Commission Ramp - Deleted 5/15/99),29.866388889,-93.92583333
+1,23,(Toup's Marina Ramp - Deleted 11/21/08),30.045,-93.82027778
+1,24,(Firestone Club Ramp (2 ramps) - Deleted 5/15/08),30.037222222,-93.79527778
+1,25,(Sabine Yacht Basin Ramp - Deleted 5/15/91),30.065277778,-93.74555556
+1,26,(Sabine Yacht Basin Docks - Deleted 5/15/91),30.065,-93.74527778
+1,27,Public ramp near Entergy’s Neches substation,30.064444444,-94.05166667
+1,28,Russel's Landing Public Ramp,29.713333333,-94.31472222
+1,29,Allen's Marina Ramp,30.07,-93.745
+1,30,(Taylor's Bayou Ramp - Deleted 5/15/90),29.879221,-94.054222
+1,31,(Percy's Ramp - Deleted 11/21/90),29.880833333,-94.05166667
+1,32,(Waterfront Restaurant Ramp - Deleted 11/21/90),29.884444444,-94.04166667
+1,33,Public ramp off Carpenter Road at Cow Bayou,30.041944444,-93.80388889
+1,34,Public ramp off Sara Jane Road at bridge over dredged canal,29.969444444,-93.915
+1,35,(Ramp at base of Rainbow Bridge - Deleted 11/21/93),29.990555556,-93.86972222
+1,36,Entergy Canal Public Ramp (northeast approach to bridge over canal at State Hwy. 8,30.001111111,-93.86638889
+1,37,Mesquite Point Public Ramp,29.764166667,-93.89777778
+1,38,Cow Bayou Public Ramp,30.046666667,-93.82138889
+1,39,Logan Park Public Ramp,29.859722222,-93.93027778
+1,40,Albair's Ramp,30.0375,-93.795
+1,41,Sabine Pass Port Authority Marina Docks (6 docks with 87 wet slips),29.735555556,-93.8825
+1,42,Muddy Waters Ramp (south side of Adams Bayou bridge) (includes associated bulkhead,30.064722222,-93.74694444
+1,43,City of Orange Public Ramp,30.095833333,-93.72472222
+1,44,Bluebird Fish Camp Ramp,30.111666667,-93.72722222
+1,45,Public ramps (2) at Sabine River and Interstate Hwy. 10 (Texas side),30.126944444,-93.70277778
+1,46,Keith Lake Fish Pass Ramp,29.772222222,-93.95
+1,47,Sabine Lake Causeway Public Ramp,29.76611,-93.898333
+2,1,(Cedar Bayou HL&P Outflow Ramp - Deleted 12/1/77),,
+2,2,(Woodall's Bait Camp Ramp - Deleted 7/26/81),,
+2,3,(Crawley's Membership Fishing Camp Ramp - Deleted 11/21/98),29.683333333,-94.86666667
+2,4,Thompson's Ramp,29.680833333,-94.93611111
+2,5,Roseland Park Public Ramp,29.723055556,-94.94277778
+2,6,(Tabbs Bay Ramp - Deleted 11/21/96),29.710555556,-95.00666667
+2,7,(Morgans Point Ramp - Deleted 5/15/10),29.685833333,-94.98416667
+2,8,Sylvan Beach Public Ramp,29.649166667,-95.01111111
+2,9,(Oddo's Ramp - Deleted 9/1/80),,
+2,10,(Clear Creek Channel State Ramp - Deleted 11/21/83),29.548333333,-95.02388889
+2,11,Galveston County Park Ramp (Bacliff),29.512222222,-94.97888889
+2,12,HL&P Galveston County Park Ramp,29.505833333,-94.95722222
+2,13,(San Leon Marina Ramp and Lift - Deleted 11/21/08),29.496666667,-94.91527778
+2,14,Eagle Point Camp Ramp and Lift,29.497222222,-94.91
+2,15,April Fool Point Ramp,29.471111111,-94.92527778
+2,16,(Marge's Bait Camp Ramp - Deleted 5/15/04),29.4825,-94.9333
+2,17,(Fiesta Marina Ramp - Deleted 11/21/82),,
+2,18,(Lakeway Ramp and Simpson's Ramp - Deleted 5/15/84),29.420277778,-94.9275
+2,19,(White Heron Resorts Ramp - Deleted 8/31/75),,
+2,20,(Moses Lake Bait Camp Ramp - Deleted 11/21/82),,
+2,21,(Mowles Camp Ramp - Deleted 5/15/84),,
+2,22,(50/50 Camp Ramp - Deleted 5/15/05),29.389166667,-94.88472222
+2,23,(Dollar Point Public Ramp - Deleted 8/31/75),,
+2,24,Tackle Time Ramp,29.39,-94.88583333
+2,25,(Curl's Ramp - Deleted 11/21/08),29.386111111,-94.8725
+2,26,Schaper Public Ramp,29.383611111,-94.86638889
+2,27,Noah Welch Public Ramp,29.373888889,-94.83638889
+2,28,(Texas City Dike Public Ramp - Deleted 5/15/84),,
+2,29,Sansom-Yarbrough State Ramp,29.365555556,-94.81527778
+2,30,Jones Lake State Ramp (Fat Boys),29.306666667,-94.90638889
+2,31,(Intracoastal Inn Ramp - Deleted 9/1/78),,
+2,32,(Salty's Bait Camp Ramp - Deleted 11/21/00),29.302777778,-94.89944444
+2,33,(Pat and Sue's Bait Camp Ramp - Deleted 11/21/02),29.330555556,-94.94416667
+2,34,Louis' Ramp (includes rent boats),29.331388889,-94.94305556
+2,35,Halls Bayou Camp Ramp and Lift,29.283611111,-95.12916667
+2,36,(Snug Harbor Marina Ramp - Deleted 12/1/78),,
+2,37,Lute's Marina Ramp and Lift,29.247777778,-95.23611111
+2,38,Chocolate Bay State Ramp,29.211111111,-95.20805556
+2,39,Marlin Marina Ramp,29.089722222,-95.27666667
+2,40,Bastrop Bayou County Road 227 Bridge State Ramp,29.095,-95.28333333
+2,41,Bastrop Marina Ramp and Lift (12 wet slips),29.085555556,-95.28833333
+2,42,(Christmas Bay Shell Ramp - Deleted 12/1/78),,
+2,43,Christmas Bay Public Ramp,29.048611111,-95.16527778
+2,44,San Luis Pass County Park Ramp,29.079444444,-95.13111111
+2,45,(Shoreline Public Launching - Deleted 9/1/80),,
+2,46,(San Luis Pass Bait Camp Ramp - Deleted 5/15/82),,
+2,47,Bay Harbor Ramp,29.130555556,-95.07388889
+2,48,(Terramar Beach Private Ramp - Deleted 11/21/94),29.131944444,-95.06361111
+2,49,Sea Isle Ramp,29.144166667,-95.0475
+2,50,(Jamaica Beach Marina Ramp - Deleted 11/21/85),29.2,-94.98777778
+2,51,Jamaica Beach Ramp,29.188888889,-94.97972222
+2,53,Waterman’s Seafood Grille Ramp,29.207222222,-94.94944444
+2,54,(Pirate's Beach Ramp - Deleted 5/15/93),29.217777778,-94.94277778
+2,55,8-Mile Road Bait Camp Ramp,29.264722222,-94.89972222
+2,56,(73rd Street County Park Ramp - Deleted 7/28/81),,
+2,57,61st Street County Park Ramp,29.285277778,-94.83638889
+2,58,(Bayou Bay Marina Ramp - Deleted 9/1/79),,
+2,59,(Newell Marina Ramp - Deleted 5/15/84),29.280277778,-94.86861111
+2,60,(M&M Camp Ramp - Deleted 9/1/79),,
+2,61,(Payco Marina Ramp and Docks AA and B - Deleted 11/21/08),29.287222222,-94.87194444
+2,62,Galveston Bait and Tackle Camp Ramp,29.289444444,-94.87388889
+2,63,(Jim Reid's Ramp - Deleted 11/21/85),29.384166667,-94.76805556
+2,64,(Shirley's Cafeteria Ramp - Deleted 5/15/04),29.384444444,-94.76805556
+2,65,(Johnson Road Ramp - Deleted 3/20/78),,
+2,66,Siever’s Cut Bait Camp Ramp,29.430555556,-94.70944444
+2,67,(2-J's Harbor Ramp (Demi-John) - Deleted 11/21/89),29.086111111,-95.27888889
+2,68,(B&P Bait Camp Ramp - Deleted 7/15/81),,
+2,69,(Bob's Camp Ramp - Deleted 9/6/79),,
+2,70,Stingaree Marina Ramp,29.481388889,-94.60444444
+2,71,(Chocolate Bayou Marina Ramp - Deleted 8/31/75),,
+2,72,L. K. Lauderdale County Ramp,29.515277778,-94.51194444
+2,73,Smith Point Ramp (Van-Et-Un and Robbin's Park),29.546111111,-94.78694444
+2,74,Oak Island County Ramp,29.653055556,-94.69166667
+2,75,Fort Anahuac Park Public Ramp,29.751944444,-94.69222222
+2,76,(Anahuac State Ramp - Deleted 12/1/78),,
+2,77,(Crawley's Bait Camp Ramp - Deleted 11/21/08),29.679444444,-94.92611111
+2,78,Dickinson Bayou State Hwy. 146 Bridge Public Ramp,29.462777778,-94.97305556
+2,79,Cotton Lake Public Ramp,29.808333333,-94.80777778
+2,80,(Colonel's Lady Ramp - Deleted 11/21/91),29.334166667,-94.74944444
+2,81,(Waddell's Ramp and Wilson's Ramp - Deleted 11/21/91),29.333888889,-94.69777778
+2,82,(North Galveston Jetty Ramp - Deleted 11/21/83),29.368333333,-94.75111111
+2,83,Galveston Yacht Basin Ramp,29.318055556,-94.77638889
+2,84,Moses Lake Marina Ramp,29.418611111,-94.925
+2,85,Clear Lake Public Ramps (main ramp and ramp by building),29.563611111,-95.06944444
+2,86,(Dollar Bay Ramp - Deleted 11/21/94),29.421944444,-94.89138889
+2,87,(Cotton's Bait Camp Ramp - Deleted 5/15/93),29.485555556,-94.93277778
+2,88,(Brazoria County Ramp 57A at Third Street - Deleted 11/21/08),28.998055556,-95.2325
+2,89,High Island State Ramp,29.593888889,-94.39083333
+2,90,(San Jacinto Bay Bridge Ramp - Deleted 10/3/81),,
+2,91,(Shore Acres Private Ramp - Deleted 11/21/98),29.623611111,-95.00944444
+2,92,(Tiger Marina Ramp - Deleted 10/3/81),,
+2,93,Halls Bayou Bridge Public Ramp,29.286111111,-95.13055556
+2,94,Horseshoe Bend Ramp,29.243055556,-95.23138889
+2,95,The Oasis II Ramp,29.479166667,-94.60444444
+2,96,(Omega Bay Private Ramp - Deleted 11/21/94),29.330277778,-94.93666667
+2,97,(Bastrop Bayou Private Ramp - Deleted 11/21/94),29.082222222,-95.28638889
+2,98,2 J’s Ramp (Freeport),28.899166667,-95.4925
+2,99,(Dolphin Street Ramp (Freeport) - Deleted 5/15/93),28.956111111,-95.28666667
+2,100,"Swan Lake Public Ramp (Bay Street, Freeport)",28.979444444,-95.26833333
+2,101,(Bridge Harbor Marina Ramp (Freeport) - Deleted 5/15/84),28.962777778,-95.29277778
+2,102,(Freeport State Ramp (under ICWW bridge) - Deleted 11/21/92),28.956111111,-95.29222222
+2,103,(Ducroz Ramp (Freeport) - Deleted 5/15/97),28.875,-95.45527778
+2,104,Oyster Creek Ramp (Freeport),29.010555556,-95.32805556
+2,105,Freeport Municipal Park Public Ramp,28.961944444,-95.37083333
+2,106,Freeport Community Center Public Ramp,28.955833333,-95.36222222
+2,107,(Turtle Cove Ramp (Freeport) - Deleted 11/21/87),29.001944444,-95.30722222
+2,108,Bennet's Motel Ramp,28.876388889,-95.45944444
+2,109,San Bernard River Public Ramp,28.869722222,-95.44611111
+2,110,(Linda L's Bait Camp Ramp (Freeport) - Deleted 5/15/93),29.333888889,-94.69638889
+2,111,New Brazos River Dike Public Ramp,28.902222222,-95.38472222
+2,112,(Teakwood Marina Ramp - Deleted 11/21/07),29.299166667,-94.905
+2,113,Three Stars Marina Ramp,29.42,-94.92527778
+2,114,Clear Lake Shores Public Ramp,29.55,-95.02944444
+2,115,(Boyt Road Private Ramp - Deleted 11/21/94),29.428611111,-94.70194444
+2,116,(Galveston Yacht Basin Boat Barn - Deleted 11/21/08),29.317222222,-94.77555556
+2,117,Galveston Yacht Basin Dock A (50 wet slips; party boats),29.319166667,-94.77361111
+2,118,Galveston Yacht Basin Dock B (119 wet slips; party boats),29.318611111,-94.77472222
+2,119,Galveston Yacht Basin Dock C (121 wet slips; party boats),29.318888889,-94.775
+2,120,Galveston Yacht Basin Dock D (95 wet slips; party boats),29.319444444,-94.775
+2,121,(Turtle Lake Apartments Ramp - Deleted 5/15/94),29.277222222,-94.84666667
+2,122,(Havre Lafitte Private Ramp - Deleted 11/21/94),29.263055556,-94.84138889
+2,123,(Treasure Island Ramp - Deleted 11/21/01),29.075833333,-95.13055556
+2,124,(Turtle Cove North Shore Boat Shed - Deleted 11/21/83),,
+2,125,(Turtle Cove South Shore Boat Shed - Deleted 11/21/83),,
+2,126,(Hide-A-Way on the Gulf Ramp - Deleted 5/15/88),29.002222222,-95.30166667
+2,127,(Kirby Marina Docks - Deleted 11/21/97),29.007777778,-95.31583333
+2,128,Under the Bridge Bar Bait Camp Ramp,29.095277778,-95.28333333
+2,129,(Marlin Marina Boat Shed - Deleted 11/21/85),29.09,-95.2775
+2,130,(Horseshoe Bend Camp Boat Shed - Deleted 11/21/95),29.243888889,-95.23194444
+2,131,(Timber Cove Private Ramp - Deleted 11/21/94),29.574166667,-95.05138889
+2,132,(Bridge Harbor Canal Front Slips - Deleted 5/15/84),29.574166667,-95.05138889
+2,133,Bridge Harbor Canal Dock A (34 wet slips; party boats),28.9625,-95.29111111
+2,134,Bridge Harbor Canal Docks B and C (70 wet slips; party boats),28.961944444,-95.29166667
+2,135,(Bridge Harbor Canal Dock C - Deleted 5/15/85),,
+2,136,Bridge Harbor Canal Docks D and E (76 wet slips; party boats),28.961388889,-95.29277778
+2,137,"Bridge Harbor Canal Docks F, G, H, and I (85 wet slips; party boats)",28.961111111,-95.29333333
+2,138,(Harbor Cove Docks - Deleted 11/21/83),29.3025,-94.89944444
+2,139,"(Payco Marina Docks C, CC, and F - Deleted 11/21/08)",29.287222222,-94.87194444
+2,140,(Lutes Marina Boat House - Deleted 11/21/99),29.253055556,-95.23277778
+2,141,Saltgrass Bait Camp Ramp,28.965277778,-95.3075
+2,142,(San Leon Marina Boat Sheds - Deleted 5/15/95),29.496388889,-94.91611111
+2,143,(Bonno's Bait Camp Ramp - Deleted 5/15/85),,
+2,144,(El Jardin Private Ramp - Deleted 11/21/94),29.5975,-94.98611111
+2,145,Freeport New Brazos River Public Ramp,28.9644,-95.3742
+2,146,(Key Largo Ramp - Deleted 11/21/89),29.030555556,-95.1975
+2,147,(Texas City Dike Marina Lift - Deleted 5/15/95),29.366944444,-94.81416667
+2,148,(Public Ramp just East of Cedar Cut - Deleted 5/15/85),,
+2,149,(Public Ramp just West of Cedar Cut - Deleted 11/21/94),29.030555556,-95.19777778
+2,150,Not previously assigned,,
+2,151,(The Galley Ramp - Deleted 11/21/97),29.710277778,-95.00305556
+2,152,Walter Hall County Park Ramp (League City),29.511666667,-95.10277778
+2,153,Dickinson Bayou County Ramp (State Hwy. 3),29.456111111,-95.0475
+2,154,(Payco Marina Dock D - Deleted 11/21/08),29.2875,-94.87305556
+2,155,Hitchcock Public Ramp,29.335555556,-95.02305556
+2,156,New Brazos River State Hwy. 36 Bridge Public Ramp,28.946388889,-95.38055556
+2,157,(Lea's Bolivar Bait Camp Ramp - Deleted 11/21/04),29.432222222,-94.70888889
+2,158,Sportsman Road Ramp,29.259166667,-94.91111111
+2,159,(Dan's Ramp - Deleted 11/21/00),29.386388889,-94.87583333
+2,160,"Ben Blackledge Public Ramp (under State Hwy. 146, Kemah side)",29.548055556,-95.02222222
+2,161,(Gulf Coast Guide Service Dock - Deleted 11/21/08),29.496111111,-94.91
+2,162,(Ermin Pilsner Public Ramp - Deleted 11/21/08),29.3697,-94.7511
+2,163,(Clear Lake Parkside Lift - Deleted 5/15/07),29.563611111,-95.06666667
+2,164,(Cold Pass Marina Ramp - Deleted 11/21/01),29.057222222,-95.145
+2,165,(Sneak'N Out Ramp - Deleted 11/21/07),29.590277778,-95.04055556
+2,166,(Club Nautico at Payco Marina (rent boats only) - Deleted 5/15/92),,
+2,167,(Bay Oaks Harbor Private Ramp - Deleted 11/21/94),29.698055556,-94.88694444
+2,168,Bridge Bait Ramp,28.956111111,-95.29416667
+2,169,West End Marina at Sea Isle Ramp (includes 3 docks with 54 wet slips),29.145,-95.04694444
+2,170,Hornbeck's Bait Camp Ramp,29.389166667,-94.75972222
+2,171,Anahuac National Wildlife Refuge Oyster Bayou Ramp,29.613611111,-94.52861111
+2,172,Anahuac National Wildlife Refuge Bay Ramp,29.575,-94.55583333
+2,173,League City Farm Road 270 Public Ramp,29.535,-95.09472222
+2,174,Seabrook State Hwy. 146 Bridge Public Ramp,29.550833333,-95.02333333
+2,175,(Quintana Public Ramp - Deleted 5/15/05),28.931666667,-95.31916667
+2,176,Dollar Point Public Ramp,29.421944444,-94.88972222
+2,177,V. H. “Buddy” McBride Public Ramp,29.7125,-94.99222222
+2,178,Bridge Harbor Canal Dock X (30 wet slips; party boats),28.961666667,-95.29194444
+2,179,(Red Tin Building Ramp - Deleted 11/21/08),29.331388889,-94.94611111
+2,180,(Eddie Gray Wetlands Center Public Ramp - Deleted 5/15/12),29.733055556,-94.98555556
+2,181,Village of Surfside Public Ramp,28.942777778,-95.30111111
+2,182,Quintana Bridge Public Ramp (Farm Road 1495 at ICWW),28.922222222,-95.34277778
+2,183,Texas City Dike Public Ramp,29.386388889,-94.87472222
+2,184,Gulf Coast Marina Drystack,28.956666,-95.2908333
+2,185,Bluewater Bait Camp,29.452222,-94.670277
+3,1,Froggie's Public Ramp,28.432777778,-96.43305556
+3,2,Fishing Center Ramp,28.439166667,-96.41416667
+3,3,(Tweety's Bait Ramp - Deleted 11/21/04),28.436666667,-96.42388889
+3,4,Indianola Marina Ramp,28.511666667,-96.48833333
+3,5,Magnolia Beach Public Ramp,28.561111111,-96.53944444
+3,6,Chocolate Bayou Public Ramp,28.578611111,-96.65027778
+3,7,Harbor Refuge Public Ramp,28.595,-96.61972222
+3,8,Lavaca Causeway Public Ramp (State Hwy. 35),28.639444444,-96.61194444
+3,9,Point Comfort Public Ramp,28.681666667,-96.56277778
+3,10,Florence Bait Camp Ramp,28.64,-96.45861111
+3,11,Crescent V Public Ramp,28.737777778,-96.40194444
+3,12,At Last Marina Ramp (includes wet slips),28.636666667,-96.35416667
+3,13,Turtle Bridge Public Ramp,28.720833333,-96.27333333
+3,14,Turning Basin Ramp,28.696388889,-96.23083333
+3,15,(Palacios Bait Camp Ramp - Deleted 11/21/96),28.696388889,-96.21972222
+3,16,East Bay Public Ramp,28.704444444,-96.20916667
+3,17,Grassy Point Bait Camp Ramp,28.714722222,-96.20055556
+3,18,Tres Palacios River Public Ramp,28.786388889,-96.15
+3,19,River Bend Public Ramp,28.67,-95.96444444
+3,20,(Al's Ramp - Deleted 5/15/03),28.639444444,-95.96722222
+3,21,(Gilmer's Ramp - Deleted 6/15/82),,
+3,22,Rawlings Ramp,28.627777778,-95.97027778
+3,23,(UFO Ramp - Deleted 5/15/84),28.710277778,-95.91388889
+3,24,Caney Creek Marina Ramp,28.772222222,-95.63416667
+3,25,Bridge Cove Marina Ramp,28.771111111,-95.61805556
+3,26,(Cherry's Ramp - Deleted 5/15/84),28.600833333,-95.97777778
+3,27,(Bulkhead Marina Lift - Deleted 5/15/80),,
+3,28,Chinquapin Ramp,28.757777778,-95.77388889
+3,29,(The Wharf Ramp - Deleted 5/15/94),28.637777778,-96.35555556
+3,30,(St. Marys Bayou Ramp - Deleted 11/21/05),28.643611111,-95.96444444
+3,31,Six-Mile Park Public Ramp,28.694166667,-96.66388889
+3,32,(Don Juan Marina Ramp - Deleted 5/15/97),28.7725,-95.61527778
+3,33,Brookings Boat Shed (34 wet slips),28.709444444,-96.21
+3,34,(Collegeport Ramp - Deleted 11/21/85),28.729444444,-96.18611111
+3,35,Jensen Point Public Ramp,28.6875,-96.27416667
+3,36,Port Alto Ramp & Boat Sheds (includes 107 wet slips in 2 sheds),28.6575,-96.41611111
+3,37,(Ramp at East End of Port Lavaca Causeway - Deleted 11/21/86),28.660555556,-96.58416667
+3,38,(Coloma Creek Bridge (launching from shore) - Deleted 11/21/86),28.479722222,-96.55138889
+3,39,(Fishing Center Boat Sheds - Deleted 5/15/84),28.438055556,-96.41527778
+3,40,Not previously assigned,,
+3,41,(McKinney Boat Sheds - Deactivated as crossover site 5/15/92),28.437777778,-96.41583333
+3,42,(Power's Boat Sheds - Deleted 5/15/99),28.438055556,-96.41666667
+3,43,(Alligator Head East Boat Sheds - Deactivated as crossover site 5/15/92),28.436666667,-96.42138889
+3,44,(Alligator Head West Boat Sheds - Deactivated as crossover site 5/15/92),28.436388889,-96.42166667
+3,45,(Weathersby's Boat Sheds - Deactivated as crossover site 5/15/92),28.433333333,-96.43
+3,46,(C and R Bait Camp Ramp - Deleted 11/21/06),28.688055556,-95.96555556
+3,47,Selkirk Island Ramp,28.768055556,-96.00055556
+3,48,(Karen's Ramp - Deleted 5/15/92),28.773888889,-95.62083333
+3,49,Lolita Public Ramp,28.833055556,-96.57638889
+3,50,Frell's Landing Ramp,28.822777778,-96.57444444
+3,51,(Holiday Harbor Marina Ramp - Deleted 11/21/87),28.769444444,-95.61888889
+3,53,Powderhorn RV Park Ramp,28.509722222,-96.50638889
+3,54,(Jackson County Ramp - Deleted 5/15/94),28.666944444,-96.40833333
+3,55,(Boca Chica Ramp - Deleted 5/15/94),28.685277778,-96.39166667
+3,56,(Allen's Landing Ramp - Deleted 11/21/04),28.654166667,-95.9625
+3,57,Garcitas Creek Public Ramp,28.7775,-96.69861111
+3,58,West Carancahua River Ramp,28.82,-96.4025
+3,59,Matagorda Harbor Public Ramp,28.692777778,-95.95805556
+3,60,Railroad Park Public Ramp,28.698055556,-96.21805556
+3,61,La Salle Ramp,28.743888889,-96.66305556
+3,62,Clark's Seafood Ramp (includes wet slips),28.440277778,-96.41472222
+3,63,Crab Trap Ramp,28.768055556,-95.64027778
+3,64,Matagorda Harbor Boat Stalls (104 wet slips),28.693888889,-95.95527778
+3,65,Olivia Park Public Ramp,28.636388889,-96.45694444
+3,66,Caney Club Ramp,28.772777778,-95.63444444
+3,67,Colorado River Park Public Ramp (Farm Road 521),28.787222222,-95.99555556
+3,68,(Southwest Cut Ramp - Deleted 5/15/05),28.626388889,-95.97055556
+3,69,Mitchell’s Cut Public Ramp,28.763333333,-95.63194444
+3,70,Charlie’s Bait Ramp,28.769722222,-95.635
+3,71,Peninsula Park Ramp,28.617777778,-96.62083333
+3,72,LCRA Public Ramp,28.602777,-95.9775
+3,73,Kayak Park (Farm Road 2031),28.6442,-95.9647
+4,1,Fishing Center Ramp,28.439166667,-96.41416667
+4,2,Froggie's Public Ramp,28.432777778,-96.43305556
+4,3,(Tweety’s Bait Ramp - Deleted 11/21/04),28.436666667,-96.42388889
+4,4,Shoalwater Flats Association Ramp,28.365555556,-96.57805556
+4,5,Swan Point Public Ramp,28.391388889,-96.70944444
+4,6,Seadrift Harbor Ramp,28.408055556,-96.71166667
+4,7,Austwell Public Ramp,28.395555556,-96.83944444
+4,8,Hopper's Landing Ramp,28.346666667,-96.79472222
+4,9,(Pete's Bait Camp Ramp - Deleted 8/17/79),,
+4,10,(Morgan's Bait Camp Ramp - Deleted 8/17/79),,
+4,11,(Fishing Center Boat Sheds - Deleted 5/15/84),28.438055556,-96.41527778
+4,12,(Beacon 21 Ramp - Deleted 11/21/91),28.363888889,-96.57916667
+4,13,McKinney Boat Sheds (12 wet slips),28.4375,-96.41583333
+4,14,(Power's Boat Sheds - Deleted 5/15/99),28.438055556,-96.41666667
+4,15,Alligator Head East Boat Sheds (28 wet slips),28.437777778,-96.41861111
+4,16,Alligator Head West Boat Sheds (49 wet slips),28.437222222,-96.42
+4,17,Weathersby's Boat Sheds (38 wet slips),28.434444444,-96.43027778
+4,18,(Louie Walker's Ramp - Deleted 11/21/94),28.447222222,-96.76527778
+4,19,(Carbide Ramp - Deleted 11/21/02),28.486111111,-96.77638889
+4,20,Goose Island State Park Ramp,28.128055556,-96.98555556
+4,21,Clark's Seafood Ramp (includes wet slips),28.440277778,-96.41472222
+4,22,Charlie's Bait Camp Ramp,28.364444444,-96.58138889
+4,23,Seadrift Bayfront Park Public Ramp,28.409444444,-96.72305556
+4,24,Voss' Boat Sheds (24 wet slips),28.433888889,-96.42888889
+4,25,Fishing Center Dock (17 wet slips),28.438333333,-96.415
+4,26,Dolphin Point Boat Shed (30 wet slips),28.440833333,-96.41277778
+4,27,Las Palmas Marina Boat Sheds (16 wet slips in 2 buildings),28.4325,-96.43277778
+4,28,Larry’s Harbor Marina Ramp (includes 28 wet slips in 1 building),28.429444444,-96.4375
+4,29,St Charles Marina Public Ramp,28.1419,-96.9767
+5,1,Little Bay Public Ramp,28.030555556,-97.03805556
+5,2,Fulton Harbor Public Ramp,28.060277778,-97.03333333
+5,3,South Copano Causeway Public Ramp (State Hwy. 35),28.113333333,-97.02444444
+5,4,Sea Gun Marina Ramp (includes wet slips),28.137222222,-97.00666667
+5,5,Goose Island State Park Ramp,28.128055556,-96.98555556
+5,6,St. Charles Marina Public Ramp,28.141944444,-96.97666667
+5,7,Holiday Beach South Ramp,28.163611111,-97.00805556
+5,8,(Herndon's Hideaway Ramp - Deleted 2/29/88),28.085277778,-97.06972222
+5,9,(Klein's Rattlesnake Point Ramp - Deleted 5/15/84),,
+5,10,Redfish Camp Ramp,27.992222222,-97.16472222
+5,11,Egery Island Marina Ramp,28.070833333,-97.21916667
+5,12,(North Conn Brown Harbor Ramp - Deleted 11/21/85),27.913055556,-97.13333333
+5,13,South Conn Brown Harbor Public Ramp,27.9,-97.13583333
+5,14,(Fin & Feather Marina Ramp - Deactivated as crossover site 5/15/05),27.888333333,-97.11166667
+5,15,South Bay Marina Ramp (includes wet slips and rent boats),27.881111111,-97.09916667
+5,16,Palm Harbor Marina Docks (39 wet slips),27.9675,-97.08916667
+5,17,Cove Harbor North Public Ramp (includes wet slips),27.991666667,-97.0725
+5,18,(Port Bay Ramp - Deleted 11/21/82),,
+5,19,(Rockport Turning Basin Ramp - Deleted 11/21/94),28.024444444,-97.04916667
+5,20,Tarpon Shores Ramp (includes wet slips),27.874722222,-97.09305556
+5,21,(Pouzee's Ramp - Deleted 11/21/95),28.063333333,-97.11111111
+5,22,Bayside Public Ramp,28.077222222,-97.22083333
+5,23,(Lonyo's Cajun Marina Ramp - Deleted 5/15/03),27.879722222,-97.09722222
+5,24,Sand Dollar Ramp (includes wet slips),28.073055556,-97.035
+5,25,(Key Allegro Marina - Deleted 5/15/82),,
+5,26,(Key Allegro North Ramp - Deleted 12/1/80),,
+5,27,(Racquet Club Ramp - Deleted 5/15/82),,
+5,28,Aransas Pass Airport Public Ramp,27.89,-97.14861111
+5,29,Port Aransas Public Ramp (includes wet slips),27.838055556,-97.06666667
+5,30,(Woody's Ramp - Deleted 11/21/98),27.838333333,-97.06222222
+5,31,(Harbor Oaks Ramp - Deleted 5/15/92),28.051944444,-97.03527778
+5,32,(Key Allegro Boat Shed B - Deleted 5/15/96),28.041666667,-97.03055556
+5,33,(Key Allegro Boat Shed A and T-Head - Deleted 5/15/96),28.041666667,-97.03055556
+5,34,(Sea Foam Motel Ramp - Deleted 2/29/88),28.058611111,-97.03333333
+5,35,(Harbor East Docks - Deactivated as crossover site 5/15/92),27.889444444,-97.14666667
+5,36,(Harbor West Docks - Deactivated as crossover site 5/15/92),27.889444444,-97.14972222
+5,37,(Woody's West Docks - Deactivated as crossover site 5/15/92),27.838333333,-97.06166667
+5,38,(Woody's East Docks - Deleted 11/21/92),27.838333333,-97.06111111
+5,39,(Sports Center South Dock - Deleted 11/21/92),27.838611111,-97.06027778
+5,40,(Sports Center North Dock - Deleted 11/21/92),27.839166667,-97.06027778
+5,41,(Keller's Marina Boat Ramp - Deleted 11/21/85),28.076111111,-97.1
+5,42,Mission River Public Ramp,28.182777778,-97.21833333
+5,43,(Lindsay's Landing Ramp - Deleted 5/15/99),27.936944444,-97.11805556
+5,44,(Hampton's Landing Dock - Deactivated as crossover site 5/15/92),27.888888889,-97.14777778
+5,45,(Stinky's Bait Camp Ramp - Deleted 5/15/04),27.889722222,-97.11
+5,46,Ransom Channel Park Public Ramp,27.888888889,-97.14694444
+5,47,(Atteberry's Ramp - Deleted 11/21/06),28.064444444,-97.10972222
+5,48,Cove Harbor South Public Ramp,27.989722222,-97.07888889
+5,49,Cove Harbor Marina Drystack (2 multi-level buildings with 429 dry storage slots; i,27.992777778,-97.07472222
+5,50,Holiday Beach North Ramp,28.165833333,-97.01416667
+5,51,Cove Harbor Marina Docks (163 wet slips),27.994722222,-97.07527778
+5,53,Redfish Bay Boat House (1 multi-level building with 277 dry storage slots),27.910277778,-97.13444444
+5,54,Lighthouse Lakes Paddling Trail Park Kayak Launch Area,27.868055556,-97.08527778
+6,,with 9 wet slips at adjacent Hampton’s Landing),,
+6,1,South Nueces Causeway Public Ramp,27.836666667,-97.38166667
+6,2,(North Nueces Causeway Ramp - Deleted 10/27/80),,
+6,3,Ingleside Cove Public Ramp,27.836388889,-97.22027778
+6,4,Bahia Marina Ramp (includes 46 wet slips),27.831111111,-97.22361111
+6,5,(Channel View Ramp - Deleted 5/15/86),27.8225,-97.21611111
+6,6,(Warren's Ramp - Deleted 8/10/79),,
+6,7,Aransas Pass Airport Public Ramp (includes 1 dock and 1 bulkhead,27.89,-97.14861111
+6,8,Fin & Feather Marina Ramp (includes wet slips),27.888333333,-97.11194444
+6,9,Wilson's Cut Ramp,27.736666667,-97.13666667
+6,10,(Oso Bridge Public Ramp - Deleted 11/21/96),27.710833333,-97.30972222
+6,11,L-Head Public Ramp,27.791388889,-97.38888889
+6,12,Port Aransas Public Ramp (includes wet slips),27.838055556,-97.06666667
+6,13,(Woody's Ramp - Deleted 11/21/98),27.838333333,-97.06222222
+6,14,Ransom Channel Park Public Ramp,27.888888889,-97.14694444
+6,15,(Sun Oil Ramp - Deleted 11/21/92),27.857222222,-97.16861111
+6,16,Billing's Public Ramp,27.634166667,-97.23638889
+6,17,(Naval Ramp - Deactivated as crossover site 5/15/92),27.686111111,-97.25861111
+6,18,(South Bay Marina Ramp - Deactivated as crossover site 5/15/94),27.881944444,-97.09916667
+6,19,(Gunderland Marine Ramp - Deleted 11/21/97),27.853888889,-97.35833333
+6,20,Portland Shell Bank Ramp,27.858055556,-97.35277778
+6,21,South Conn Brown Harbor Public Ramp,27.9,-97.13583333
+6,22,Harbor East Docks (1 dock and 2 bulkheads with 74 wet slips),27.888888889,-97.14861111
+6,23,Harbor West Docks (6 bulkheads with 47 covered and 18 uncovered wet slips),27.890833333,-97.14916667
+6,24,West City Docks (2 docks and 1 bulkhead with 84 wet slips; party boats),27.838611111,-97.06444444
+6,25,East City Docks (5 docks and 2 bulkheads with 135 wet slips; party boats),27.8394,-97.0639
+6,26,Deep Sea Headquarters Docks (9 party-boat wet slips),27.836944444,-97.06777778
+6,27,Dolphin Docks (4 party-boat wet slips),27.836666667,-97.06583333
+6,28,Woody's West Docks (2 docks with 29 wet slips; party boats),27.838611111,-97.06083333
+6,29,(Woody's East Docks - Deleted 11/21/92),27.838333333,-97.06111111
+6,30,(Sports Center South Dock - Deleted 11/21/92),27.838611111,-97.06027778
+6,31,(Sports Center North Dock - Deleted 11/21/92),27.839166667,-97.06027778
+6,32,Fisherman's Wharf Dock (3 party-boat wet slips),27.839722222,-97.05972222
+6,33,University of Texas Boat Basin Docks (1 dock and bulkhead with 40 wet slips),27.838888889,-97.05305556
+6,34,Island Moorings Marina Docks (285 wet slips),27.806944444,-97.08611111
+6,35,(Hampton's Landing Dock - Merged with site 7 on 5/15/14),27.888888889,-97.14777778
+6,36,(Marker 37 Ramp - Deactivated as crossover site 5/15/09),27.631388889,-97.23944444
+6,37,Sportsplex Docks (2 docks with 58 wet slips; party boats),27.839166667,-97.06055556
+6,38,Trout Street Yacht Basin Docks (2 docks and 1 bulkhead with 36 wet slips),27.838888889,-97.05944444
+6,39,(Lonyo's Cajun Marina Ramp - Deleted 5/15/03),27.879722222,-97.09722222
+6,40,(Crab Man Ramp - Deactivated as crossover site 5/15/05),27.874722222,-97.09305556
+6,41,Cove Harbor North Public Ramp (includes wet slips),27.991666667,-97.0725
+6,42,Island Moorings Marina Covered Docks (2 docks with 44 wet slips),27.809444444,-97.08611111
+7,1,Catchin' Connection Ramp (includes 91 wet slips),27.611944444,-97.29805556
+7,2,Laguna Shores Resort & Marina Ramp (includes wet slips and rent boats),27.616944444,-97.29694444
+7,3,(Tropic Isles Ramp - Deleted 11/21/08),27.628888889,-97.28916667
+7,4,(Laguna Marine Ramp - Deleted 5/15/95),27.631388889,-97.28916667
+7,5,(Toll Gate Ramp - Deleted 5/15/90),27.662222222,-97.27
+7,6,(Whitt's Ramp - Deleted 5/15/82),,
+7,7,(Fisherman's Folly Ramp - Deleted 5/15/81),,
+7,8,(JFK Inn Ramp - Deleted 11/21/01),27.634166667,-97.23916667
+7,9,(Land & Sea Marina Ramp - Deleted 5/15/10),27.635,-97.23916667
+7,10,(Rainbow Ramp - Deleted 11/21/85),27.633888889,-97.23777778
+7,11,Clem's Marina Public Ramp (includes 3 wet slips),27.634722222,-97.23805556
+7,12,Billing's Public Ramp,27.634166667,-97.23638889
+7,13,Padre Isle Investment Ramp I,27.623333333,-97.22527778
+7,14,(Boat Hole Ramp - Deleted 5/15/99),27.672222222,-97.26916667
+7,15,Naval Air Station Ramp (includes dry storage shed),27.688055556,-97.2575
+7,16,Kaufer-Hubert Memorial Park Public Ramp,27.319722222,-97.68194444
+7,17,(Kratz's Ramp - Deleted 11/21/97),27.288333333,-97.66138889
+7,18,Williamson's Ramp (includes wet slips),27.277777778,-97.70833333
+7,19,Bird Island Basin Ramp (Padre Island National Seashore),27.473055556,-97.30972222
+7,20,(Whiteley's Basin Ramp - Deleted 5/15/85),27.614166667,-97.30111111
+7,21,Padre Isle Investment Ramp II (White Cap and Caravel),27.602777778,-97.24055556
+7,22,Padre Isle Investment Ramp III (End of Cobo de Caba),27.611944444,-97.23944444
+7,23,Padre Isle Investment Ramp IV (Gypsy and Bounty),27.6,-97.23
+7,24,Padre Isle Investment Ramp V (Fortuna Bay and Monte Pelle),27.596111111,-97.23138889
+7,25,(Padre Isle Investment Ramp VI (Encatada and Cruiser) - Deleted 5/15/13),27.589166667,-97.22638889
+7,26,Padre Isle Investment Ramp VII (Cartagena),27.600277778,-97.24194444
+7,27,Marker 37 Ramp (includes wet slips),27.631388889,-97.23944444
+7,28,Cos-Way Bait & Tackle Dock (4 wet slips; party boats),27.657777778,-97.2625
+7,29,Packery Channel Public Ramp,27.618333333,-97.2125
+7,30,Naval Air Station Dock (37 wet slips),27.689722222,-97.2575
+7,31,Bluffs Bay Marina,27.67222,-97.270556
+8,1,(Fisherman's Wharf Ramp - Deleted 11/21/07),26.1041,-97.1703
+8,2,(Jim's Pier Ramp - Deleted 11/21/11),26.1036,-97.1703
+8,3,Sea Ranch Marina Dock & Dry Storage Shed (includes 16 wet slips;,26.076944444,-97.16527778
+8,4,(Jetties Ramp - Deleted 5/15/80),26.071111111,-97.16388889
+8,5,(Marchan's Ramp - Deleted 9/1/78),,
+8,6,(Port Isabel Ramp - Deleted 9/1/76),,
+8,7,White Sands Ramp (includes 16 wet slips),26.074166667,-97.21444444
+8,8,Jaime J. Zapata Memorial Public Ramp,26.002222222,-97.29833333
+8,9,Laguna Vista Ramp (includes 17 wet slips),26.103055556,-97.29055556
+8,10,(Gabby's on the Arroyo Ramp - Deleted 5/15/04),26.326388889,-97.45416667
+8,11,(Ready’s Bait Stand Ramp - Deleted 5/15/10),26.336111111,-97.43611111
+8,12,(Al's Place Ramp - Deleted 3/27/82),,
+8,13,Willacy County Navigation District Ramp,26.552777778,-97.42805556
+8,14,Port Mansfield State Ramp,26.556666667,-97.42888889
+8,15,(Redfish Motel Ramp - Deleted 5/15/84),26.557222222,-97.42638889
+8,16,South Padre Marina Docks (72 wet slips),26.133333333,-97.17611111
+8,17,Port Mansfield Boat Basin Docks (6 docks with 117 wet slips),26.551666667,-97.42833333
+8,18,Port Isabel Channel East Side Docks (2 marinas with 26 wet slips),26.073055556,-97.21166667
+8,19,Sea Ranch Marina South Docks (5 docks with 42 wet slips; party boats),26.075555556,-97.16527778
+8,20,(Bermuda's Ramp - Deleted 11/21/91),26.098611111,-97.16777778
+8,21,Rio Hondo Public Ramp,26.239444444,-97.58527778
+8,22,Pompano Park Public Ramp (includes wet slips),26.076111111,-97.21638889
+8,23,The Traveler Trailer Park Ramp (includes 3 wet slips),26.073611111,-97.21583333
+8,24,Sea Ranch Marina II Dry Storage Shed at Southpoint,26.066388889,-97.21027778
+8,25,(Southpoint Marina Docks - Deleted 11/21/96),26.066388889,-97.20777778
+8,26,Anchor Harbor Ramp (includes 22 wet slips),26.076388889,-97.21694444
+8,27,South Padre Island State Ramp,26.078611111,-97.16916667
+8,28,(Arroyo City Resort Ramp - Deleted 11/21/93),26.331944444,-97.44138889
+8,29,Parrot Eyes Ramp (includes 9 wet slips),26.129166667,-97.17166667
+8,30,Adolph Tomae County Park Ramp,26.349722222,-97.39111111
+8,31,Park Center Ramp,26.070833333,-97.2125
+8,32,Channel View RV Park Ramp (includes 30 wet slips),26.331666667,-97.44111111
+8,33,(Arroyo City RV Resort Ramp - Deleted 11/21/00),26.331388889,-97.44111111
+8,34,(Sea Ranch Marina Dry Storage Shed - Deleted 11/21/03),26.076944444,-97.16611111
+8,35,Isla Blanca County Park Ramp,26.069166667,-97.16305556
+8,36,Port Mansfield Shallow-Water Ramp,26.537777778,-97.42027778
+8,37,West Polaris Drive Public Ramp,26.122777778,-97.1725
+8,38,Del Rey Ramp,26.324444444,-97.45555556
+8,39,Adolph Tomae County Park West Ramp,26.34944,-97.392778
+8,40,Palm Street Public Ramp,26.0972,-97.1683

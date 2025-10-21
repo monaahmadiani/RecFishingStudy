@@ -1,0 +1,196 @@
+Site_Id,Site_Code,Site_Name,Site_Address,Site_City,Site_Description,Comments,Active_Flg,Office_Id_Ref,Basin,Basin_ID,Parish_Cnty_Name,FIPS_Cnty_Code,Latitude,Longitude
+1,60,Devil's Elbow Launch,,Lake Charles,"1/2 Mile North Of Airhart Rd Bridge, Hwy 384 Site Closed",,0,7,CALCASIEU,3,Calcasieu,19,30.213333,-93.235
+2,62,Intercoastal Waterway Park,,Lake Charles,"Below Ellender Bridge On Icw Hwy 27, S Of Sulphur",,1,7,CALCASIEU,3,Calcasieu,19,30.05,-93.366667
+3,30,Prien Lake Park,,Lake Charles,Near Lake Charles; 1/4 Mile S. Of I-210 Bch Launch,,1,7,CALCASIEU,3,Calcasieu,19,30.188333,-93.271667
+4,266,Lake Charles Civic Center Seawall,,Lake Charles,Seawall W Of Civic Center; E Side Of Calcasieu Lake,,1,7,CALCASIEU,3,Calcasieu,19,30.221667,-93.216667
+5,262,Interstate 210 Beach Launch,,Lake Charles,Below I-210 Bridge Inside La Fleur Park; East Side,,1,7,CALCASIEU,3,Calcasieu,19,30.256667,-93.233333
+6,3047,Calcasieu Point,,Lake Charles,3955 Henry Pugh Blvd.,,1,7,CALCASIEU,3,Calcasieu,19,30.103033,-93.307683
+7,272,I-10 Bridge Launch,,Lake Charles,"Under I-10 Bridge, East Bank, On N Lake Rd.",,1,7,CALCASIEU,3,Calcasieu,19,30.275,-93.196667
+8,298,Hackberry Shell Pile Area & Boat Ramp,,Hackberry,"1/2 Mile E. Of Hwy 27, N. On Channel View Dr.",,1,7,CALCASIEU,3,Cameron,23,29.988333,-93.338333
+9,305,Hebert's Landing,,Grand Lake,"Hwy 384 S., Take Hwy 1144, Turn On Herbert Camp Rd. On Big Pasture Rd. At End",,1,7,CALCASIEU,3,Cameron,23,29.968333,-93.25
+10,178,Monkey Island,,Cameron,"Take Monkey Island Ferry, Off Hwy 82 Site Closed",,0,7,CALCASIEU,3,Cameron,23,29.795,-93.335
+11,233,Cameron Ship Channel,,Cameron,"Hwy 82, Ferry Landing Crossing",,1,7,CALCASIEU,3,Cameron,23,29.8,-93.35
+12,179,Mermentau River Area,,Grand Chenier,"Near Grand Chenier Hwy 82, Mermenteu Rvr.",,1,7,MERMENTAU,5,Cameron,23,29.778333,-93.013333
+13,53,Hwy 27 Roadside (Hog Island Gully),,Hackberry,"Hwy 27, S Hackberry",,1,7,CALCASIEU,3,Cameron,23,29.8,-93.436667
+14,46,Grand Chenier Park,,Grand Chenier,1 3/4 Mile E. Of Mermentau River Bridge On Hwy 82,,1,7,MERMENTAU,5,Cameron,23,29.77,-92.991667
+15,44,Rockefeller Refuge Launch,,Grand Chenier,"(East Entrance) East Hwy 82, W Of Pecan Island",,1,7,MERMENTAU,5,Cameron,23,29.705,-92.676667
+16,25,"Sabine Lake, Between Texas & La Line",,Johnsons Bayou,"Off Hwy 82, E. Side Of Brg Johnson",,1,7,SABINE,11,Cameron,23,29.768333,-93.891667
+17,43,Joseph's Harbor,,Grand Chenier,"Off Hwy 82, In West Rockefeller Refuge",,1,7,MERMENTAU,5,Cameron,23,29.717057,-92.765365
+18,49,Rutherford Beach Park,,Oak Grove,"Hwy 82 Turn At Sign, West Of Oak Grove",,1,7,MERMENTAU,5,Cameron,23,29.778333,-93.216667
+19,50,Cameron Jetties & Ramp,,Cameron,Go To End Of Cameron Jetty Road Go South Off Hwy 82 At Cam-Mart,deactivated because it is no longer a boat ramp- no longer public.,0,7,CALCASIEU,3,Cameron,23,29.761667,-93.345
+20,24,Beach Btw'n Holly Beach\constance Bch,,Holly Beach,"Hwy 82, 9 Miles West Of Cameron",,1,7,CALCASIEU,3,Cameron,23,29.783333,-93.45
+21,3368,Davis Seafood,,Hackberry,Left Off Hwy 27 Onto Pete Seay Circle; Right On Alphonse Lane; 195 Alphonse Lane,Site has been marked as incavtive due to low pressure and safety issues,0,7,CALCASIEU,3,Cameron,23,30.005667,-93.334167
+22,1476,West Cove Canal,,Hackberry,Approximately 5 Miles South Of Sabine Refuge Headquarters,,1,7,CALCASIEU,3,Cameron,23,29.866333,-93.453167
+23,1535,Spicer's Bait And Tackle,,Hackberry,Just South And East Of Hwy 27 Bridge Over Black Lake Bayou (Aka Kelso Bayou),,1,7,CALCASIEU,3,Cameron,23,30.00365,-93.342217
+24,1943,Deep Bayou Landing (Johnson Bayou),,Johnson Bayou,Hwy 82 From Johnson Bayou Turn N. On Deep Bayou Lndg Rd 3.5m On Left,,1,7,SABINE,11,Cameron,23,29.79055,-93.750067
+25,1368,Avery Island Public Launch,,Avery Island,"Us Hwy 90 Near New Iberia, South On La Hwy 39, 7 Miles At Avery Island On Right",,1,6,VERMILION-TECHE,6,Iberia,45,29.915267,-91.904017
+26,324,Port Of Iberia Ramp,,New Iberia,Lewis St.S.Of Hw 90 1 Mile E.Of Avery Island Turn Off,,1,6,VERMILION-TECHE,6,Iberia,45,29.943333,-91.835
+27,326,Bayou Patout,,Weeks Island,"Off Hgy 83,between Weeks & Louisa Before Bridge",,1,6,VERMILION-TECHE,6,Iberia,45,29.835167,-91.954
+28,316,Sand Dollar Marina,,Grande Isle,East End Of Island; End Of Hwy 1,,1,3,BARATARIA,2,Jefferson,51,29.261654,-89.961589
+29,268,Grand Isle Beach Area,,Grand Isle,South Side Of Isle,,1,3,BARATARIA,2,Jefferson,51,29.20332,-90.036662
+30,299,Cochiaras Marina,,Lafitte,"Hwy 45, Marina Is Before Bridge",,1,3,BARATARIA,2,Jefferson,51,29.691667,-90.096663
+31,322,Lafitte Harbor,,Lafitte,Take Left Before C- Way Marina,,1,3,BARATARIA,2,Jefferson,51,29.653776,-90.10599
+32,1309,Joes Landing,,Lafitte,"Hwy 45 Into Lafitte, Trn R.At Town Hall, Cross Bridgetrn L. Go 4 Mls Following Signs",,1,3,BARATARIA,2,Jefferson,51,29.685417,-90.101318
+33,1629,Gulf Stream Marina,,Grand Isle,On Left Side Of Hwy 1 Past My Favorite Marina Across From Gulf Stream Apts,set to inactive 4/7/2015 FMB,0,3,BARATARIA,2,Jefferson,51,29.209993,-90.033333
+34,1336,Lafitte Public Fishing Pier,,Lafitte,"Hwy 45, Marrero St., Just Below Junction Of 2nd St. -Apx. 3 Miles N Of C-Way Marina",set to inactive 4/7/2015 FMB,0,3,BARATARIA,2,Jefferson,51,29.666927,-90.110156
+35,71,Bonnabel Boat Launch,,Metairie,1 1/2 Mi N. Of Vet Hwy & Bonnabel Blvd Bonnabel Blvd At Lake,,1,1,PONTCHARTRAIN,4,Jefferson,51,30.020581,-90.142155
+36,127,Nick's Marina,,Lafitte,End Of Hwy 45--Follow Signs; 5057 Kenal Road,Formerly known as Seaway Marina,1,3,BARATARIA,2,Jefferson,51,29.65625,-90.108822
+37,255,Pirates' Cove Marina,,Grand Isle,"End Of La 1, 1/2 Mi E. Of State Pk. Private Use Only",set to inactive 4/7/2015 FMB,0,3,BARATARIA,2,Jefferson,51,29.263314,-89.956641
+38,143,Cheramie's Landing,,Grand Isle,Off La 1 Fshrmn Leave 9-10a If No Fish Site Closed,,0,3,BARATARIA,2,Jefferson Davis,53,29.211654,-90.05166
+39,140,Leblanc's Marina,,Grand Isle,"Off La 1, Take Lft. At Sign Site Closed",,0,3,BARATARIA,2,Jefferson Davis,53,29.214974,-90.028333
+40,224,Williams Blvd Boat Ramp,,Kenner,End Of Wms Blvd At Lake Ponchartrain Over Levee Next To Casino,,1,1,PONTCHARTRAIN,4,Jefferson,51,30.040894,-90.238542
+41,159,Elmer's Island Camping And Fishing,,Grand Isle,"Take Right At Sign, Off Hwy 1",,1,3,BARATARIA,2,Jefferson,51,29.194987,-90.075
+42,222,Bank Along Hwy 1 Roadside,,Fourchon,From Hwy 3090 To Caminada Pass (Shoulder Of Hwy 1 Fourchon To Gi Bridge),,1,3,BARATARIA,2,Jefferson,51,29.158333,-90.17832
+43,141,Bridge Side Marina,,Grand Isle,"Off La 1, Take Right After Crossing Caminada Bridge",,1,3,BARATARIA,2,Jefferson,51,29.20332,-90.039998
+44,151,Abandoned Hwy 1 Bridge (East),,Grand Isle,East Side Of Caminada Pass Crossing To Grand Isle Side Near Bridge Side Marina,,1,3,BARATARIA,2,Jefferson,51,29.20498,-90.039998
+45,150,Abandoned Hwy 1 Bridge (West),,Grand Isle,West Side Of Caminada Pass Crossing To Grand Isle Side Near Cigar Marina,,1,3,BARATARIA,2,Jefferson,51,29.209993,-90.05
+46,256,Grand Isle State Park Fishing Pier,,Grand Isle,"East End Of Grand Isle, Turn Right At Sign",,1,3,BARATARIA,2,Jefferson,51,29.259993,-89.95
+47,3359,Bayou Segnette State Park,,Westwego,7777 Westbank Expressway-8 Miles West Of Gno Bridge On Left,,1,3,BARATARIA,2,Jefferson,51,29.903002,-90.154453
+48,8,Ed's Boat Launch,,Leeville,"Off Hwy 1, Bayou Side Across From Boudreaux's Site Closed",,0,4,BARATARIA,2,Lafourche,57,29.254329,-90.211849
+49,130,Belle Pass Marina,,Lafourche,1/2 Mi N. Of Site 0230 And A.J. Estay Rd. & 3090 Hwy Site Closed,,0,3,BARATARIA,2,Lafourche,57,29.11333,-90.196647
+50,323,Port Fourchon Marina,,Port Fourchon,288 Flotation Road,,1,3,BARATARIA,2,Lafourche,57,29.15332,-90.184993
+51,317,Moran's Marina,,Port Fourchon,Hwy 1 And Hwy 3090,set to inactive 4/7/2015 FMB- no activity going on- NAS 8/10/15,1,3,BARATARIA,2,Lafourche,57,29.158333,-90.17832
+52,269,Boudreaux's Waterfront Motel,,Leeville,"Hwy 1, On Right Side Of Hwy",,1,4,TERREBONNE,12,Lafourche,57,29.25638,-90.216113
+53,328,Top Water Marina,,Leeville,"Hwy 1, 1 Mile Before Leeville Bridge",Name Change. Site formerly known as Bobby Lynn?s Marina.  Updated in DMS 1/15/2015. FMB,1,4,BARATARIA,2,Lafourche,57,29.266667,-90.218327
+54,1844,Steve Tomeny's Charters,,Golden Meadow,"S. On Hwy 1 Turn Onto Hwy 3090, Right On Floatation Road. Behind Harbor Patrol",inactivated site 10/31/14. will combine with Port Fourchon site 323,0,3,BARATARIA,2,Lafourche,57,29.15166,-90.181641
+55,3141,Grand Bayou Unit Public Launch,,Point Au Chenes,"Off Highway 665, Just South Of The Pacwma Headquarters",,1,4,TERREBONNE,12,Lafourche,57,29.452148,-90.466276
+56,1334,Bason's Marina,,Cut Off,"542 W. 107th Street, 2 Lanes S. Of Pizza Hut On La 1 Rt On Rd By Exxon Over Levee",,1,4,TERREBONNE,12,Lafourche,57,29.470052,-90.342253
+57,524,Oakridge Public Ramp,,Golden Meadow,"Hwy 3235- Take Right At Sign, Before Chicks Bait Shop",,1,4,TERREBONNE,12,Lafourche,57,29.390495,-90.277799
+58,169,Lafourche Beach,,Port Fourchon,"Go S. On Hwy 1, Turn On 3090, Go To End Site Closed",,0,3,BARATARIA,2,Lafourche,57,29.10332,-90.186654
+59,231,Roadside Along Shoulder Of Hwy 1,,Port Fourchon,Between Leeville And Fourchon,,1,3,BARATARIA,2,Lafourche,57,29.244987,-90.206641
+60,230,Melancon's Launch,,Port Fourchon,Hwy 3090 & Lumcon Rd,,1,3,BARATARIA,2,Lafourche,57,29.11499,-90.191667
+61,133,Josh's Launch,,Golden Meadow,"Off Hwy 3235 1/2 Mi Past Park, Over Levee Behind Chick's Bait Shop",Site went private May 2013. No longer have the ability to interview,0,4,TERREBONNE,12,Lafourche,57,29.383724,-90.270313
+62,135,Big Bayou Blue Marina,,Larose,"La-24, Larose-Bourg Hwy 2 Mi W. Of Bridge X-Ing Icww",,1,4,TERREBONNE,12,Lafourche,57,29.544141,-90.400716
+63,239,Chef Harbor,,New Orleans,"Hwy 90, 1/2 Mi East Of Chef Pass And Bridge",,1,1,PONTCHARTRAIN,4,Orleans,71,30.071419,-89.800911
+64,238,Fort Pike State Park-Public Launch,,New Orleans,"Hwy 90 At Rigolet's Pass, West Side Of Chef Pass",,1,1,PONTCHARTRAIN,4,Orleans,71,30.166732,-89.73724
+65,227,Lombard's,,New Orleans,Hwy 90 2 Mi E Of Hwy 11 & Hwy 90 Junction Private Use Only,,0,1,PONTCHARTRAIN,4,Orleans,71,30.056665,-89.793229
+66,155,Westend Boat Launch,,New Orleans,"Westend Blvd At Lake Ponchartrain, Bhnd Yacht Club",,1,1,PONTCHARTRAIN,4,Orleans,71,30.028333,-90.120215
+67,183,Bayou Bienvenue Marina,,Chalmette,"Bayou Bienvenne & Paris Rd,1/2 Mi Past Eddies Launch",,1,1,PONTCHARTRAIN,4,Orleans,71,29.982031,-89.944401
+68,287,Fisherman's Paradise,,New Orleans,"On Paris Road, Betw. Eddies & Bayou Bien Venue Mrn. Private Access Only",,0,1,PONTCHARTRAIN,4,Orleans,71,30.016667,-89.966667
+69,306,Seabrook Launch & Pier,,New Orleans,Next To N.O. Lakefront Airport W. Side Of Industrial Canal,,1,1,PONTCHARTRAIN,4,Orleans,71,30.031531,-90.03693
+70,333,Fort Macomb,,New Orleans,Hwy 90 And Fort Macomb Site Closed,,0,1,,,Orleans,71,,
+71,1472,Venetian Isles Marina,,New Orleans,Left Before Chef Bridge (Coming From N.O.) And Followft. Macomb Rd To Burton Road,,0,1,,,Orleans,71,,
+72,1471,Southshore Bait and Marina,,New Orleans,"Hwy 90 Going East, Take A Right Just Before Chef Menteur Bridge",Formerly Jenaveve's,1,1,PONTCHARTRAIN,4,Orleans,71,30.065145,-89.80638
+73,3045,Coulon's,,Empire,"On South Bank Of Empire Canal, 1st Road South Of Old Hwy 23 Bridge",set to inactive 4/7/2015 FMB,0,3,BARATARIA,2,Plaquemines,75,29.375977,-89.595573
+74,1369,Riverside Marina,,Buras,126 Blaize Dr.,set to inactive 4/7/2015 FMB,0,3,MISSISSIPPI,7,Plaquemines,75,29.35612,-89.522331
+75,1798,Baptiste Collette Marina,,Venice,"42511 Hwy 23, Across From Barney's Bait And Seafood Private Use Only",set to inactive 4/7/2015 FMB,0,3,MISSISSIPPI,7,Plaquemines,75,29.284831,-89.360612
+76,1693,Yellow Cotton Marina,,Yellow Cotton,2 Miles S. Of Boothville And 2.25 Miles N. Of Venice Off Highway 23,,1,3,BARATARIA,2,Plaquemines,75,29.313151,-89.388997
+77,173,Lake Hermitage Launch,,Lake Hermitage,"2 Mi Past Myrtle Grove, Rt On Lk Judge Perez Rd 5 Mi Off Shell Rd(Private Only)",set to inactive 4/7/2015 FMB,0,3,BARATARIA,2,Plaquemines,75,29.558594,-89.884375
+78,232,Delta Marina,,Empire,"On North Bank Of Empire Canal, Old Hwy 23 & Bridge Next To Empire Shipyard",,1,3,BARATARIA,2,Plaquemines,75,29.384961,-89.602083
+79,257,Fort Jackson,,Venice,"Hwy 23, Over Miss. River Levee At Frt. Jackson",,1,3,BARATARIA,2,Plaquemines,75,29.352995,-89.458333
+80,122,Hi Ridge Marina,,Port Sulphur,"Hwy 23, Rt At Sign, Bridge, 2 Mi S. Of Happy Jack's Site Closed",,0,3,BARATARIA,2,Plaquemines,75,29.490951,-89.713802
+81,121,Happy Jack's Marina,,Port Sulphur,"Hwy 23, Right At Sign, Over Levee",,1,3,BARATARIA,2,Plaquemines,75,29.517773,-89.736719
+82,74,"Pt La Hache Marina, Beshel Bt Lnch",,Point A La Hache,"Hwy 39, Over Levee Eastside Of Town",,1,1,PONTCHARTRAIN,4,Plaquemines,75,29.56875,-89.764583
+83,73,Myrtle Grove Marina,,Myrtle Grove,"Hwy 23 To Bp Refinery 1 1/2 Mi, Take Right At Sign",,1,3,BARATARIA,2,Plaquemines,75,29.631901,-89.951563
+84,6,Venice Marina,,Venice,Off Tidewater Rd At End Of Hwy 23 (Follow Signs),,1,3,MISSISSIPPI,7,Plaquemines,75,29.239811,-89.364453
+85,126,Joshua Marina,,Buras,"Off Hwy 23, Take Right Over Levee At Sign Next To Buras Boat Harbor",,1,3,BARATARIA,2,Plaquemines,75,29.349479,-89.538802
+86,311,Cypress Cove Marina,,Venice,"End Of Coast Guard Rd, Off Hwy 23",,1,3,MISSISSIPPI,7,Plaquemines,75,29.250651,-89.361654
+87,301,Fisherman's Launch,,Delacroix,"Next To Serigne's Launch, Hwy 300 Closed",,0,1,PONTCHARTRAIN,4,St. Bernard,87,29.764974,-89.791797
+88,277,End Of The World Marina,,Delacroix,"End Of Hwy 300, 1/2 Mi Past Serigne's Site Closed",,0,1,PONTCHARTRAIN,4,St. Bernard,87,29.758854,-89.783073
+89,318,Reggio Marina,,Reggio,"Hwy 300, 1 Mile Past Hwy 46",,1,1,PONTCHARTRAIN,4,St. Bernard,87,29.768099,-89.790495
+90,274,Serigne's Boat Launch,,Delacroix,2nd Boat Launch On Delacroix Island,,1,1,PONTCHARTRAIN,4,St. Bernard,87,29.764583,-89.791797
+91,182,Pip's Place,,Hopedale,"Hwy 624, Turn Right After Bridge, 3 Mi",Owner never returned after Hurrican Isaac. Will no reopen. Retiring site as of 02/06/13.,0,1,PONTCHARTRAIN,4,St. Bernard,87,29.814063,-89.643099
+92,3406,Sweetwater Lodge,,Delacroix,"6205 Delacroix Hwy, Next To Serigne's",,1,1,PONTCHARTRAIN,4,St. Bernard,87,29.761528,-89.7905
+93,340,Bayou Bienuenue Boat Launch,,Chalmette,Aprox 1 Mi After Bridge Behind Paradise Truck Stop Private Use Only,,0,1,PONTCHARTRAIN,4,St. Bernard,87,29.981641,-89.889974
+94,1453,Hopedale Marina & Convenience Store,,Hopedale,4618 Hopedale Hwy; 1.5 Miles From Bayou Laloutre Bridge (Closed),set to inactive.  Don't confuse with the renamed breton sound marina which is now hopedale marina(64),0,1,PONTCHARTRAIN,4,St. Bernard,87,29.8206,-89.65825
+95,1337,Melerine's Launch (Mack's Place),,Delacroix,"5616 Delacroix Hwy, On La Hwy 300 Apx. 7m From La46 Junction (Site Closed)",,0,1,PONTCHARTRAIN,4,St. Bernard,87,29.768099,-89.790495
+96,2,Gulf Outlet Marina,,Chalmette,Marina Dr Off Paris Rd.,,1,1,PONTCHARTRAIN,4,St. Bernard,87,29.972526,-89.945052
+97,40,De Popes Launch,,Violet,St Bernard Hwy & Violet Canal Site Closed,,0,1,PONTCHARTRAIN,4,St. Bernard,87,29.898698,-89.900521
+98,33,Campo's Marina,,Shell Beach,"Turn Left After Bridge, Go To End Of La 46",,1,1,PONTCHARTRAIN,4,St. Bernard,87,29.853776,-89.679036
+99,64,Hopedale Marina,,Hopedale,End Of Shell Rd. La Hwy 624,Formerly named Breton Sound Marina.  Don?t confuse with the inactive hopedale marina and convenience store (1453),1,1,PONTCHARTRAIN,4,St. Bernard,87,29.818764,-89.611878
+100,83,Quintana Public Launch,,Cypremort Point,"Hwy 319,next To State Park",,1,6,VERMILION-TECHE,6,St. Mary,101,29.723333,-91.863333
+101,270,Cypremort Point State Park,,Cypremort Point,"South Of Public Boat Launch, Off Hwy 319",,0,6,VERMILION-TECHE,6,St. Mary,101,29.711667,-91.88
+102,181,Burns Point Recreational Area,,Burn's Point,"S. End Of 317 Out Of Centerville, Call Prior",,1,6,ATCHAFALAYA,1,St. Mary,101,29.575,-91.528333
+103,1984,Fairfax Foster Bailey Boat Launch,,Franklin,"Franklin Ex 3211 Off 90, 1/4 Mi. To Stop @ Chatwort Rt To Willow St, Rt.Service Rd",,1,6,VERMILION-TECHE,6,St. Mary,101,29.78395,-91.523333
+104,3325,Sunset Point Public Fishing Pier,,Mandeville,From Causeway Approach Take Massena St South To Dead End At Sunset Point Park,,1,1,PONTCHARTRAIN,4,St. Tammany,103,30.361393,-90.088509
+105,300,Madisonville Ramp,,Madisonville,"2 Mi S. Of Hwys 22 & 1077, On Lake Pontchartrain",,1,1,PONTCHARTRAIN,4,St. Tammany,103,30.378516,-90.1611
+106,276,Tite's Place,,Slidell,"Hwy 11, On N. Shore Of Bridge By Gilbert's Place Site Closed",,0,1,PONTCHARTRAIN,4,St. Tammany,103,30.218034,-89.823177
+107,319,Mandeville Harbor,,Mandeville,End Of Lake Shore Dr And Jackson Street,,1,1,PONTCHARTRAIN,4,St. Tammany,103,30.34974,-90.059383
+108,297,Lacombe Boat Ramp,,Lacombe,Hwy 434 And Lk. Pontchartrain 3 Mi S. Of Hwys 190 & 434,,1,1,PONTCHARTRAIN,4,St. Tammany,103,30.267513,-89.95651
+109,296,Pearl River Ramp (Public),,Slidell,Hwy 90 At La. & Ms. Line,,1,1,PEARL,9,St. Tammany,103,30.238379,-89.616406
+110,3398,The Pointe Marina of Slidell,,Slidell,E On Lakeview Dr.(Rat's Nest Rd)at North End Of Hwy 11 Bridge; North On Harbor View,"Site name changed from ""The Dock""",1,1,PONTCHARTRAIN,4,St. Tammany,103,30.216947,-89.798562
+111,70,Rigolets Bait & Seafood,,Slidell,At Jct Of Hwy 90 & La-Hwy 433 East Side Of Chef Pass,,1,1,PONTCHARTRAIN,4,St. Tammany,103,30.17679,-89.726953
+112,69,Cousin's Boat Launch,,Slidell,North Shore Side Hwy 11 Closed,,0,1,BARATARIA,2,St. Tammany,103,29.218327,-89.818229
+113,304,Pass Manchac Ramp,,Manchac,Hwy I-55 To Pass Manchac Exit-Follow Signs To Public Boat Ramp,,1,1,PONTCHARTRAIN,4,Tangipahoa,105,30.307682,-90.405859
+114,325,Jug's Seafood,,Dularge,"3370 Bayou Dularge Rd., Theriot, La 70397",,1,5,TERREBONNE,12,Terrebonne,109,29.336667,-90.84
+115,320,Boudreaux Marina,,Cocodrie,End Of Hwy 56 (Leased To Oil Company Until Oct 2010 Private Access Only),,1,4,TERREBONNE,12,Terrebonne,109,29.245443,-90.66276
+116,307,Isle Jean Charles Rd,,Pointe Au Chenes,"Island Road. Go West Off Hwy 665, 1/2 Mile From End Temporary Closure Road Repairs",,1,4,TERREBONNE,12,Terrebonne,109,29.420117,-90.474023
+117,331,Point Barre Ramp,,Montegut,"Hwy 24 To Bourg. Thru Montegut, L On Pt. Of Barre Rd.And Go To End",,1,4,TERREBONNE,12,Terrebonne,109,29.41862,-90.554427
+118,278,Bayou Neuf Marina,,Chauvin,Off Hwy 56 On Right Side Southbound Site Torn Down And Closed,,0,4,TERREBONNE,12,Terrebonne,109,29.484961,-90.633333
+119,330,Sharkey's Landing,,Chauvin,Off Hwy 56 3 Miles S. Of Chauvin,Formerly Sharkey's Landing- changed back Feb 2013. Now formerly Boudreaux Canal Boat Launch,1,4,TERREBONNE,12,Terrebonne,109,29.381641,-90.620833
+120,109,Four Point Landing,,Dulac,"On 4-Pt Rd Below Hwy 57, 8-12 Mi S Of Dulac",,1,5,TERREBONNE,12,Terrebonne,109,29.285,-90.66
+121,79,T-Irv's Marina,,Dulac,"Bayou Grand Calliou, South Of Dulac Stay Rt On Shell Dr. To Marina",,1,5,TERREBONNE,12,Terrebonne,109,29.386667,-90.721667
+122,67,Co Co Marina,,Cocodrie,Off Hwy 56 Next To Lumcon Site No Names Or Add Of Charter Patro,,1,4,TERREBONNE,12,Terrebonne,109,29.250651,-90.662109
+123,3102,Wine Island Pass Marina,,Cocodrie,"0.1 Mi N Of Intersection Of Shrimp & Redfish St. In Cocodrie,across Fm Coco Marina",,1,4,TERREBONNE,12,Terrebonne,109,29.249186,-90.660156
+124,332,Harbor Light Marina,,Cocodrie,End Of Hwy 56,Set to inactive.  Site was bought and will become a private site.,0,4,TERREBONNE,12,Terrebonne,109,29.246094,-90.661589
+125,1452,Sunshine Acres Marina,,Dulac,4.5 Miles Down Four-Pt. Road Below Hwy 57,,1,5,TERREBONNE,12,Terrebonne,109,29.291667,-90.853333
+126,1747,Falgout Canal Road,,Dulac,Right Onto Falgout Canal Road Bridge South Of Dulac Water Tower,,1,5,TERREBONNE,12,Terrebonne,109,29.384567,-90.729033
+127,1685,Tradewinds Marina & Lodging,,Chauvin,"7681 Hwy 56, Cocodrie, La; About 3 Miles N Lumcon",,1,4,TERREBONNE,12,Terrebonne,109,29.278906,-90.64375
+128,341,Seabreeze Marina,,Montegut,The End Of Hwy 55 Across Bridge,,1,4,TERREBONNE,12,Terrebonne,109,29.38151,-90.594531
+129,1335,"Montegut Marina, Llc",,Montegut,"2250 Hwy. 55, 1/2 Mile N. Of Intersection Hurricane Protection Levee And Hwy. 55",,1,4,TERREBONNE,12,Terrebonne,109,29.394922,-90.58737
+130,3244,Topwater Charters,,Cocodrie,.3 Miles South Of Bayou Bait And Tackle,,1,4,TERREBONNE,12,Terrebonne,109,29.275716,-90.644401
+131,3142,Boudreaux Canal,,Chauvin,"Off Highway 56, 3 Miles South Of Chauvin",,1,4,TERREBONNE,12,Terrebonne,109,29.386784,-90.619531
+132,3335,Dulac Food Store,,Dulac,8102 Grand Caillou Road,,1,5,TERREBONNE,12,Terrebonne,109,29.376,-90.713133
+133,3364,Bob's Bayou Black Marina,,Gibson,Ushwy 90w;exit 189 To La20;slight Left @la20e To Bay Ou Black Dr;right At Marina Dr.,,1,5,TERREBONNE,12,Terrebonne,109,29.630817,-90.94465
+134,244,Pointe Aux Chene Marina,,Point Au Chenes,End Of Hwy 665,,1,4,TERREBONNE,12,Terrebonne,109,29.416016,-90.447656
+135,147,Falgout Canal Landing,,Theriot,"Off Hwy 315, On Falgout Canal Across Bayou Bridge",,1,5,TERREBONNE,12,Terrebonne,109,29.418333,-90.851667
+136,158,Kozy Kampers,,Cocodrie,10 Mi N Of Cocodrie On Hwy 56 & Robinson Canal Across From Lapeyrousse Sfd&bar,,1,4,TERREBONNE,12,Terrebonne,109,29.332552,-90.64349
+137,152,Sportsman's Paradise,,Chauvin,Between Chavin & Cocodrie On La Hwy 56,,1,4,TERREBONNE,12,Terrebonne,109,29.337174,-90.638542
+138,321,Don's Launch,,Henry,"Hwy 90 W, Left Hwy 14, Left Hwy 330, Left Hwy 331, Right Hwy 685, 1 Mile On Left",,1,6,VERMILION-TECHE,6,Vermilion,113,29.875183,-92.0654
+139,91,Acadiana Marina,,Pecan Island,"Off Hwy 82, 1 Mile Before Hwy 3147 Private Use Only",,1,6,VERMILION-TECHE,6,Vermilion,113,29.811667,-92.131667
+140,23,Roll Over Landing,,Pecan Island,Rockefeller Refuge; West End Of Pecan Island,,1,6,MERMENTAU,5,Vermilion,113,29.631667,-92.396667
+141,21,Intracstl City Pub Lnch On Hwy 333,,Intercoastal City,Behind Maxie Pierce Restaurant Restaurant Closed,,1,6,VERMILION-TECHE,6,Vermilion,113,29.788333,-92.146667
+142,1467,Freshwater City Public Launch,,Freshwater City,"Off Hwy 82, Near End Of Hwy 3147",,1,6,MERMENTAU,5,Vermilion,113,29.550867,-92.309117
+143,5001,Bayou Segnette State Park,,,,,0,3,BARATARIA,2,Jefferson,51,29.89651,-90.1584
+144,5002,Pier 90,,,,,0,3,BARATARIA,2,Jefferson,51,29.9114,-90.229
+145,5003,Des Allemands,,,,,0,3,BARATARIA,2,Lafourche,57,29.8216,-90.47634
+146,5004,Clovelly Farms,,,,,0,3,BARATARIA,2,Lafourche,57,29.55292,-90.27527
+147,5005,Gheens,,,,,0,3,BARATARIA,2,Lafourche,57,29.68886,-90.47368
+148,5006,Lucky 7 (Somme?s),,,,,0,3,BARATARIA,2,Lafourche,57,29.81927,-90.48466
+149,5007,Carmadelle?s,,,,,0,3,BARATARIA,2,Jefferson,51,29.20884,-90.05411
+150,5008,Fisherman?s Wharf,,,,,0,3,BARATARIA,2,St. Charles,89,29.7803,-90.3773
+151,5009,Bayou Gauche,4529 Bayou Gauche Rd,Bayou Gauche,Standard 1 ramp launch with no store or facilities on the property. Open to the public but has an honesty deposit box,,1,3,BARATARIA,2,St. Charles,89,29.782,-90.3945
+152,5010,Gulf Stream,,,,,0,3,BARATARIA,2,Jefferson,51,29.21039,-90.03392
+153,5011,BBY Marina,,,,,0,3,BARATARIA,2,Lafourche,57,29.21131,-90.21763
+154,8888,Unknown Public,None,None,Unknown Public Site,,1,,,,,,,
+155,3464,Isle de Jean Charles Marina,,Montegut,"Hwy 665, Right on Island Rd, Marina is before end of island rd on left",,1,4,TERREBONNE,12,Terrebonne,109,29.388283,-90.482867
+156,7777,Private Dock,,,,,1,5,,,,,,
+157,3504,St Tammany Fishing Pier,,Slidell,"east side of I-10, exit 261 by the shore of Lake Pontchartrain",,1,1,PONTCHARTRAIN,4,St. Tammany,103,30.211083,-89.793417
+158,3486,Bayou Log Cabins,,Lake Hermitage,"Go down over Lake Hermitage Rd over the bridge, first right",set to inactive 4/7/2015 FMB,0,3,BARATARIA,2,Plaquemines,75,29.55865,-89.884583
+159,3487,Burnt-Out Bridge,,Vinton,"From I-10 exit 4, take Frontage Rd west to Old Hwy 90, follow until road ends",,1,7,SABINE,11,Calcasieu,19,30.10255,-93.693267
+160,3458,Northline,,Hackberry,Hwy 27 South of Hackberry,,1,7,CALCASIEU,3,Cameron,23,29.9209,-93.3813
+161,3511,Gotta Fish Boat Launch,1426 Hwy 55,Montegut,1.5 mi south from Montegut Elementary School on bayouside (right) and before Point Barre Site,,1,4,TERREBONNE,12,Terrebonne,109,29.457317,-90.563217
+163,4003,Saltwater Barrier,Mims Rd,Westlake,Boat Launch is next to US Army Corp of Engineers Facility,"From I-10 Exit 27 cross I-10 service road/Sampson St to Perkins St. Take first left onto Miller Ave, follow Miller then take right onto Mims Rd. Follow Mims until ends.",1,7,CALCASIEU,3,Calcasieu,19,30.2543,-93.218033
+164,4004,Westlake Riverside Park,1700 Miller Ave,Westlake,Open from 5:00am to 11:00pm,"From I-10 Exit 27 take LA 379 east to Miller Ave, left on Miller, continue on road, Park will be on right",1,7,CALCASIEU,3,Calcasieu,19,30.252883,-93.244983
+165,4026,Choupique Bayou,Chilly Westlund Rd,Carlyss,"From I-10, take exit 20 South on Ruth Street. Continue from Ruth straight for 2 miles onto Hwy. 27.","From I-10, take exit 20 South on Ruth Street. Continue from Ruth straight for 2 miles onto Hwy. 27. Follow 27 approximately 6 mi. Turn Right onto Chilly Westlund Rd. Boat Launch on first left.",1,7,CALCASIEU,3,Calcasieu,19,30.252883,-93.244983
+166,4048,Wakeside Marina,1615 Hwy 1,Grand Isle,,CB in future open few days a week,1,3,BARATARIA,2,Jefferson,51,29.205483,-90.038983
+167,4050,Dugas Landing,514 Joe Dugas Rd,Hackberry,From I-10 exit 20 south on HWY 27 through Hackberry. Approx 2.5 south of Hackberry left on Joe Dugas Rd till end.,,1,7,CALCASIEU,3,Cameron,23,29.966917,-93.342183
+168,4086,Price Lake,,Grand Chenier,East on Highway 82 just south of Creole 17.4 miles to Price Lake Road on Rockefeller Refuge.  South on Price Lake Road 1,,1,7,MERMENTAU,5,Cameron,23,29.706033,-92.830633
+169,4087,CPSP Shark Bayou,306 Beach Lane,Cypremort Point,Bank/Beach located on the north side of the park (next to cabins),Cypremort Point State Park- splitting up site 270,1,6,VERMILION-TECHE,6,Iberia,45,29.7409,-91.85485
+170,4088,CPSP Pavillion,306 Beach Lane,Cypremort Point,Pavillion located on the south side of the park (next to the main entrance).,Cypremort Point State Park- splitting site 270,1,6,VERMILION-TECHE,6,St. Mary,101,29.734167,-91.855067
+171,4089,Hackberry Rod and Gun,485 Lake Breeze Road,Hackberry,Private Dock for Charter Fishing Trips,,1,7,CALCASIEU,3,Cameron,23,29.977233,-93.34335
+172,4133,Grand Isle Kayak Launch,Off Ludwig Lane,Grand Isle,Located on the side of the LSU Oyster House. Public launch for kayaks,,1,3,BARATARIA,2,Jefferson,51,29.238433,-90.00295
+173,4140,Bayou Carlin Cove,,,"Public launch with 3 small piers and 1 long pier, large covered pavillion",,1,6,VERMILION-TECHE,6,Vermilion,113,29.942067,-91.982267
+174,4143,Leeville Public Launch,Goat Isle Ave,Leeville,"End of Old Hwy 1, underneath the gateway to the gulf expy. near intersection of Bayou Lafourche and the SW canal",,1,5,TERREBONNE,12,Lafourche,57,29.247017,-90.209667
+175,4147,Lake Catherine Island Marina,26204 Chef Menteur Hwy,New Orleans,"Hwy 90, 1.3 miles west of Rigolets Pass bridge","Mode present: PR
+Live bait, marina store, backdown launch, boat slips, open daylight to dusk, no lighted parking area",1,1,PONTCHARTRAIN,4,Orleans,71,30.1499,-89.7408
+176,4154,Pelican Pointe Marina,23008 Chef Menteur Hwy,New Orleans,,,1,1,PONTCHARTRAIN,4,Orleans,71,30.1645,-89.739917
+177,4153,Eddie Pinto's Marina,2651 Paris Rd,New Orleans,"2 back down ramps, will have live bait",,1,1,PONTCHARTRAIN,4,Orleans,71,29.991167,-89.94235
+178,4155,Lakeshore Drive- Elysian Fields to LPBF Lighthouse,8001 Lakeshore Dr,New Olreans,Seawall along Lake Pontchartrain from Elysian Fields to the LPBF Lighthouse,Shore only,1,1,PONTCHARTRAIN,4,Orleans,71,30.026488,-90.11242
+179,4156,Freeport Canal,Civic Drive,Port Sulphur,Site is located over a levee on a short gravel road that runs behind the South Plaquemines school building.,"Site is located over a levee on a short gravel road that runs behind the South Plaquemines school building.  Anglers park on either side of the levee.  The site is mostly small boat anglers with some shore activity.  There is no ramp, but a gradual ?washout? at the end of the gravel road suffices as a launch.  
+Due to the condition of the site, it is highly unlikely charter or offshore activities are present.  
+It is my opinion that all assignments at this site should be AM for the safety of staff.  The site is at the end of a lightly traveled road with no lighting or restroom facilities.  
+As a matter of interest, a funding request for construction of a pier/tie-up dock was make by the parish to the Department?s Wallop-Breaux boating access program.  The request was recommended for approval by the review committee. 
+
+
+
+
+
+Note: Summer weekend pressures are based on observations made on two successive days in June 2017.  Weekday and pressures for other seasons are guesstimates.  
+
+",1,3,BARATARIA,2,Plaquemines,75,29.4738,-89.697135
+188,4157,Vinot's Marina,27010 Chef Menteur Hwy,New Orleans,"Next door to Fort Pike, Back down launch, live bait",,1,1,PONTCHARTRAIN,4,Orleans,71,30.164237,-89.739504
+189,4158,Vinton Drainage Canal,,Vinton,Located at the end of Johnny Breaux Rd.  Boat Ramp/ limited shore fishing opportunity.,,1,7,,,Calcasieu,19,30.15431,-93.567
+198,4159,Hackberry Fish Camp,260 Channel Dr,Hackberry,"Marina that offers lodging, fuel, live bait, fish cleaning station, and boat stalls",,1,7,CALCASIEU,3,Cameron,23,29.989,-93.337667
+199,4160,Grand Bayou Road,Grand Bayou Road,Port Sulphur,Single lane road on the way to grand bayou village with kayak launching availability along the entire road and one gravel boat ramp for small vessels near the end of the road.,"Due to this site being on the other side of the levee, the road can occasionally flood. however, our vehicles are well equipped to handle these conditions.",1,3,BARATARIA,2,Plaquemines,75,29.514267,-89.762931
+200,4161,Lighthouse Bend,Davis Rd,Cameron,"One lane boat launch at the new Lighthouse Bend Marina in Cameron, north of Venture Global LNG","This boat launch accesses the old river loop. It is fairly shallow so unless they start dredging it out on a regular basis it will only be conducive to smaller vessels. I believe it will still have high pressure due to the fact it is the only boat launch in Cameron on the east side of the Ship Channel. We will monitor it to assess pressures once added. Shore fishing will be minimal, there?s not a lot of area for that.",1,7,CALCASIEU,3,Cameron,23,29.7917,-93.3228
