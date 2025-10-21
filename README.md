@@ -14,9 +14,9 @@ The primary data used were obtained under a contract from Cuebiq.com and all ana
 •	Output:	Indicators2019_All.C.csv.csv
 •	In the middle of this notebook, reference is made to Linux commands were used to efficiently concatenate all files. 
 
-0B AIS Machine Learning
-•	Carries out ML Classification on the AIS Data
-•	Input: 	Indicators2019_All.C.csv.csv
+## 0B AIS Machine Learning
+* Carries out ML Classification on the AIS Data
+* Input: 	Indicators2019_All.C.csv.csv
 •	Output:	rf_model_AIS_2019.pkl
 
 1 Random Sample from OurTables.04.ipynb
