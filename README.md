@@ -14,7 +14,7 @@ The primary data used were obtained under a contract from Cuebiq.com and all ana
 * Output:	Indicators2019_All.C.csv.csv
 * _In the middle of this notebook, reference is made to Linux commands were used to efficiently concatenate all files._
 
-## 0B AIS Machine Learning
+## 0B AIS Machine Learning.ipynb
 * Carries out ML Classification on the AIS Data
 * Input: 	Indicators2019_All.C.csv.csv
 * Output:	rf_model_AIS_2019.pkl
@@ -24,18 +24,18 @@ The primary data used were obtained under a contract from Cuebiq.com and all ana
 * Input: 	Raw data pulled from Spectus’s V2 data within the Gulf
 * Output:	Pings_OurTable_Gulf_ALL.csv
 
-## 2 CreatingIndicators_OurTables.04
+## 2 CreatingIndicators_OurTables.04.ipynb
 * Creates indicators for the trips that have enough pings
 * Input:	Pings_OurTable_Gulf_ALL.csv
 * Output:	Indicators_OurTable.csv
 
-## 3 MachineLearningClassification.02
+## 3 MachineLearningClassification.02.ipynb
 * Uses the ML classifier created with the AIS data to predict the vessel class for the mobility data trips
 * Input: 	Indicators_OurTable.csv
 * Input: 	rf_model_AIS_2019.pkl
 * Output: 	Indicators_OurTable.Predictions.csv
 
-## 4 RecTrip_Identification&Selection.04
+## 4 RecTrip_Identification&Selection.04.ipynb
 * Develops and implements the non-ML criteria for recreational trip identification. Creates summary stats tables for identified trips
 * Input: 	Indicators_OurTable.Predictions.csv
 * Input: 	Cuebiq's Device table – raw data for pings outside the Gulf polygon
@@ -43,16 +43,14 @@ The primary data used were obtained under a contract from Cuebiq.com and all ana
 * Output: 	DisappearanceIndicators.csv
 * Output: 	Stop_Trawls_Indicators.csv
 
-## 5 Identify_Stops_Near_Stations.08
+## 5 Identify_Stops_Near_Stations.08.ipynb
 * File carries out the process for distinguishing station- and nonstation-trips.
 * Input: 	rec_indicators_with_V3
 * Input: 	DisappearanceIndicators.csv
 * Output: 	Station_NonStationAnalysis_full.csv
 
-## 6 Validation.06
+## 6 Validation.06.ipynb
 * This carries out the validation analysis by comparing with MRIP and TPWD data
 * Input: 	rec_indicators_with_V3
 * Input: 	DisappearanceIndicators.csv
 * Input: 	Station_NonStationAnalysis_full.csv
-
-
