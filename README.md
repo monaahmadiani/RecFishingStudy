@@ -55,5 +55,3 @@ Summary of the notebooks provided
 •	Input: 	Station_NonStationAnalysis_full.csv
 
 
-<img width="432" height="635" alt="image" src="https://github.com/user-attachments/assets/c5f7a6cf-1ff2-4e11-90b1-2a8ac2db7873" />
-
