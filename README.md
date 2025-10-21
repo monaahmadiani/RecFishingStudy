@@ -12,7 +12,7 @@ The primary data used were obtained under a contract from Cuebiq.com and all ana
 * Downloads, cleans and develops features for AIS data
 * Input: 	zipped files of pings from https://marinecadastre.gov/accessais
 * Output:	Indicators2019_All.C.csv.csv
-* _In the middle of this notebook, reference is made to Linux commands were used to efficiently concatenate all files. _
+* _In the middle of this notebook, reference is made to Linux commands were used to efficiently concatenate all files._
 
 ## 0B AIS Machine Learning
 * Carries out ML Classification on the AIS Data
