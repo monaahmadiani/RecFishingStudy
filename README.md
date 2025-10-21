@@ -6,6 +6,8 @@ The Jupyter Notebooks in this folder are used to identify recreational fishing t
 
 The primary data used were obtained under a contract from Cuebiq.com and all analysis with their data was carried out on their server in Jupyter Lab. During the process of developing the data, protocols and code changed and we have not attempted to bring all code up to date. In particular, during the period over which the code was written, Cuebiq/Spectus changed their SQL platform from Trino to Snowflake. Python packages change over time and, therefore, code may not be correct if run at a later date. In particular, the H3 code underwent significant changes over time.
 
+Questions should be directed to mona.ahmadiani@ag.tamu.edu amd r-woodward@tamu.edu.
+
 # Summary of the notebooks provided
 
 ## 0A AIS data download, clean & process.ipynb
