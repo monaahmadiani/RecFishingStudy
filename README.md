@@ -1,6 +1,6 @@
 # RecFishingStudy
 
-Code for recreational fishing trip identification as implemented in “Fishing for Anglers in a Sea of Data: Using Mobility Data to Identify and Track Recreational Fishing in the Gulf of Mexico”
+Code for recreational fishing trip identification as implemented in Ahmadiani and Woodward, “Fishing for Anglers in a Sea of Data: Using Mobility Data to Identify and Track Recreational Fishing in the Gulf of Mexico”
 
 The Jupyter Notebooks in this folder are used to identify recreational fishing trips following the protocol described in Ahmadiani and Woodward “Fishing for Anglers in a Sea of Data: Using Mobility Data to Identify and Track Recreational Fishing in the Gulf of Mexico.”
 
